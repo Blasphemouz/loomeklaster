@@ -1,0 +1,28 @@
+Title: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid.
+
+----
+
+Published: 2022-04-21
+
+----
+
+Member: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid.
+
+----
+
+Text: [{"content":{"text":"<p>kell 15.00-18.00 Narva OBJEKTis (aadress: Linda 2, Narva) toimus Ida-Viru Loomeklastri koolitus \u21163: \"Disainm\u00f5tlemine ja kliendikeskne m\u00f5tteviis. Uued publiku- ja kliendigrupid\". Koolitus toimus eesti keeles t\u00f5lkega vene keelde.<\/p><p><\/p>"},"id":"a76feab6-953a-4893-8a34-563983d56aaf","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"AJAKAVA"},"id":"3ec270e1-e42a-473b-bdaa-d21da9ce5c74","isHidden":false,"type":"heading"},{"content":{"text":"<p>15:00 Sissejuhatus: disainm\u00f5tlemine, disainiprotsess ja teenusedisain<\/p><p>15:15 Avastame: empaatia, kasutajauuringud, kasutajateekond<\/p><p>16:00 Paus<\/p><p>16:10 Kirjeldame: persoonad, v\u00e4\u00e4rtuspakkumise kanvas<\/p><p>16:45 Disainime: ideestamine, protot\u00fc\u00fcpimine<\/p><p>17:20 Q&amp;A<\/p><p><\/p>"},"id":"84b198a4-0816-4777-8205-1af42d3c79b7","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"KOOLITAJA"},"id":"8776c153-5e98-46bf-8697-2b4b3a380a28","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["8hanna-stella-haaristo-700x1050.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"16\/9","crop":"false"},"id":"a26c85f8-ff69-4445-a437-eba8fe690adb","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Hanna-Stella Haaristo<\/strong> on disainiuurija disainiagentuuri Velvet strateegilise ja teenusedisaini tiimis.<\/p><p>Tema peamine \u00fclesanne on avastada ja m\u00f5ista k\u00f5ike, mis \u00fchte teenust \u00fcmbritseb ja puudutab \u2013 inimeste vajadusi, ootusi ja soove, teenuse protsesse ja kokkupuutepunkte kasutajatega, teenust osutava organisatsiooni ressursse, tegijaid ja protsesse, kohalikku konteksti ja laiemaid trende maailmas. Seda k\u00f5ike selleks, et oleks v\u00f5imalik disainida t\u00f5eliselt v\u00e4\u00e4rtust loovaid inimkeskseid teenuseid.<\/p><p>Enne Velvetiga liitumist t\u00f6\u00f6tas Hanna-Stella k\u00fcmme aastat m\u00f5ttekojas Praxis anal\u00fc\u00fctikuna selle nimel, et poliitikakujundamine Eestis oleks teadmistep\u00f5hisem.<\/p><p><\/p>"},"id":"499b7f15-30ac-4e43-9b81-f8b868a66282","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Salvestused"},"id":"6bf692d9-9a21-486b-ac7c-4ff50bcf5f3b","isHidden":false,"type":"heading"},{"content":{"text":""},"id":"4de8ec76-4ca3-4481-88a1-89e930728cfd","isHidden":false,"type":"text"},{"content":{"text":"<p>Koolituse salvestused on leitavad <strong><a href=\"https:\/\/loomeklaster.ee\/koolitusmaterjalid\/koolitusnr3\" target=\"_blank\" rel=\"noopener noreferrer\">siit<\/a><\/strong><\/p><p><\/p>"},"id":"01c296c9-d812-445c-a3ca-f1217ffce86a","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid
+
+----
+
+Meta-tags: loomeklaster, koolitus3

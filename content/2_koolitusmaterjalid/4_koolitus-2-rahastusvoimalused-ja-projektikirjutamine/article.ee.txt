@@ -1,0 +1,28 @@
+Title: Koolitus №2: Rahastusvõimalused ja projektikirjutamine
+
+----
+
+Published: 2022-02-18
+
+----
+
+Member: Koolitus №2: Rahastusvõimalused ja projektikirjutamine
+
+----
+
+Text: [{"content":{"text":"<p><strong>Salvestused:<\/strong><\/p>"},"id":"a76feab6-953a-4893-8a34-563983d56aaf","isHidden":false,"type":"text"},{"content":{"text":"<p>Sissejuhatus. Piia Tamm, Loomeklastri ja Viru FilmiFondi juht, SA Ida-Viru Ettev\u00f5tluskeskus<\/p>"},"id":"49234a92-0ebc-4aa2-a460-48aac79915c5","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/jQX60SOCn20","caption":""},"id":"05502484-d63a-40a8-9c72-47b73b798862","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>Oma ettev\u00f5tte, organisatsiooni, projekti presenteerimine<\/strong>: loomemajanduse ekspert Ragnar Siil, Creativity Lab (OSA I, II)<br><a href=\"https:\/\/drive.google.com\/file\/d\/1u0DNw_BTF0oXGgh5WmpnElgA6OGX9Nui\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/p>"},"id":"c1af936c-2148-40a4-8a4b-b0b879ef998f","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/ii4vKLNPF_g","caption":""},"id":"9849b84f-e4b9-41d2-83a4-8a449ed8880d","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/youtu.be\/xJDk_qPdVvU","caption":""},"id":"5763e7e3-5189-4fc4-a192-0e8ddced8ebb","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>T\u00fc\u00fcpilised vead taotlustes: <\/strong>Iris J\u00e4rv ja\u00a0Ave H\u00e4rsing\u00a0Integratsiooni Sihtasutus<br><a href=\"https:\/\/docs.google.com\/presentation\/d\/1M4RmUo6BYeJ67Kow39sYeXo36QrXJ802\/edit?usp=sharing&amp;ouid=107674142020841383069&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/p>"},"id":"05a6bf92-647d-494b-b25d-bf9a6da0ada0","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/ebjOLi9Z8Ho","caption":""},"id":"f7790289-8082-4b74-a5e9-8e506ab37d8a","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>Sponsorite kaasamine<\/strong>: Helen Sildna, loomeettev\u00f5tja, festivalide Station Narva ja Tallinn Music Week juht<br><a href=\"https:\/\/drive.google.com\/file\/d\/1Ggi1BTo4hIGY1LxgYa1tb5T0KgYFMxhS\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/p>"},"id":"71225686-6cf5-4860-bb8d-e3381f279bbb","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/p06qMu0a7zc","caption":""},"id":"3b2a470b-15c6-4072-b8e6-0d3cb679521b","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>Investeeringute kaasamine: <\/strong>Jana Budkovskaja, Narva loomelabori OBJEKT juht ja Prototroni kiirendi eestvedaja<br><a href=\"https:\/\/drive.google.com\/file\/d\/11L69zTMFuPNO4l2Z5ip3Fkmv8hylTHvj\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/p>"},"id":"4f95a28b-2155-4f88-ab2f-6f963d1c4e29","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/dOmJGbfZs7M","caption":""},"id":"46b8dcf9-6fa9-4a2a-942c-7ecb7283500f","isHidden":false,"type":"video"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

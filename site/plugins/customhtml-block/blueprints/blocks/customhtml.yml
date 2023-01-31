@@ -1,0 +1,9 @@
+name: Custom HTML
+icon: bolt
+tabs:
+  content:
+    fields:
+      text:
+        label: Custom HTML content
+        type: textarea
+        size: large

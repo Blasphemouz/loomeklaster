@@ -1,0 +1,35 @@
+Title: Ida-Viru Loomeklaster
+
+----
+
+Sponsors:
+
+- rahandusministeerium-min.png
+- kultuuriministeerium-min.png
+- ettevotluskeskus-min.png
+
+----
+
+Footer: [{"content":{"text":"<p>Ida-Viru Loomeklaster on 2021. aasta s\u00fcgisel asutatud koost\u00f6\u00f6v\u00f5rgustik, mis koondab piirkonna loomevaldkonna ettev\u00f5tted, organisatsioonid ja tegijad eesm\u00e4rgiga edendada t\u00f6\u00f6stusj\u00e4rgses Ida-Viru piirkonnas loomeettev\u00f5tlust, et anda t\u00f5uge kultuuri- ja majanduselu hoogustamiseks.<\/p>"},"id":"6eea0235-8f6d-4a1e-b0be-de7b73954ecf","isHidden":false,"type":"text"}]
+
+----
+
+Logo:
+
+- loomeklaster-rus.png
+
+----
+
+Google-analytics: 
+
+----
+
+Facebook: https://www.facebook.com/loomeklaster
+
+----
+
+Instagram: https://www.instagram.com/loomeklaster/
+
+----
+
+Meta-tags: 

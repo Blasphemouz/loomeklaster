@@ -1,0 +1,27 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (3/10)
+
+----
+
+Published: 2022-10-20
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga III
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-8.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Kolmas hommikukohv on 20.10. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>Tere tulemast, meiega koos avastama ilusa Eestimaa tegusaid inimesi!<\/strong><\/p><p>\u00a0<\/p><p>Kohvihommikute juttude sarjaga soovime suurendada loomeettev\u00f5tluse valdkonna teadlikkust Ida-Virumaal ning innustada ja julgustada loomeettev\u00f5tlusega rohkem tegelema meie maakonna inimesi.<\/p><p>Hommikukohvi nr 3 k\u00fclaliseks on muusik <strong>Jalmar Vabarna<\/strong>.<\/p><p>Jalmar Vabarna on edukas muusik, ansambli <strong>Trad.Attack!<\/strong> liige aga mitte ainult\u2026Treski K\u00dc\u00dcN on viimasel paaril aastal paljudele muusikas\u00f5pradele uus maam\u00e4rk Setomaal.\u00a0<\/p><p>See on uus kultuuritegevuse keskpunkt, mis t\u00f5mbab selgelt elu selles piirkonnas k\u00e4ima. MIKS otsustas Setomaalt p\u00e4rit muusik Jalmar Vabarna oma energia ja aja just sellisesse projekti panna? Miks on talle t\u00e4htis just Setomaad arendada? Kuidas tasemel kultuurielu m\u00f5jutab piirkonna arengut?<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/SvSctA4XkcU","caption":""},"id":"98c01a42-b0be-4167-8510-1c29c7ae00cb","isHidden":false,"type":"video"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vaata imelist loomingut siit:<strong> <a href=\"https:\/\/tradattack.ee\/\" rel=\"noopener noreferrer\">https:\/\/tradattack.ee\/<\/a> ja registreeru kohtumisele Zoomis!<\/strong><\/p><p><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/ivek.ee\/events\/hommikukohv3\/#reg\" target=\"_blank\" rel=\"noopener noreferrer\">Registreerumine<\/a><\/strong><\/p><p><\/p><p><\/p>"},"id":"39a34928-244a-45a8-b8a5-ef97f1cf8d2e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 10.10.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- narva-linnus_51733103068_o-min.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

@@ -1,0 +1,27 @@
+Title: LIVE! Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (9/10)
+
+----
+
+Published: 2022-11-24
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR9 (LIVE!)
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-20.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>\u00dcheksas hommikukohv on 24.11. kell 17.00.- 18.00 Narva-J\u00f5esuus!<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Meie k\u00fclaline on Raul Ore\u0161kin.<\/strong><\/p><p><strong>\u00a0<\/strong><\/p><p>Voronja galerii asub Peipsiveerel, Varnja k\u00fcla vana kalurimaja paadikuuris, kus igal suvel avatakse kureeritud n\u00e4itus.<\/p><p>Voronja galeriid k\u00fclastab suviti \u00fcle 7000 inimese k\u00f5ikjalt Eestist ja 2024.a. peaks valmis saama skulptuuride aed.<\/p><p>Suve jooksul k\u00fcpsetavad nad Peipsiveeres k\u00fcmneid kilosid vahvleid oma k\u00fclalistele, tutvustavad piirkonna ajalugu ja kunsti. T\u00e4naseks teavad juba paljud huvilised p\u00e4ris t\u00e4pselt, kus asub v\u00e4ike k\u00fclake Varnja Peipsi \u00e4\u00e4res.<\/p><p>Aga lisaks on Raul Tartu Loomemajanduskeskuse \u00fcks asutajatest, Tartu noore kunsti oksjoni \u00fcks vedajatest ning Aparaaditehases asuva kunstipoe tARTu pood omanik. Lisaks kirjutab ta ise raamatuid ja teeb aeg-ajalt oma kodus Karlovas koos kaasa Kailiga kodurestorani ning tegeleb veel mitmete projektidega, mis aitavad loovust ja ettev\u00f5tlust L\u00f5una-Eestis arendada.<\/p><p>Ida-Viru maakonna jaoks sai Raul aga tuttavaks l\u00e4bi Tartu Uue Teatri suvise kultuslavastuse \u201eKremli \u00f6\u00f6bikud\u201c projekti Kreenholmis, mis t\u00f5i kahe suve jooksul Narvat avastama kokku 20\u00a0000 inimest k\u00f5ikjalt Eestist.<\/p><p><em>Kohtumisel saame teada, kuidas ja miks Raul seda k\u00f5ik teeb? Mis teda inspireerib ja toimimas hoiab? Miks ta otsustas just Varnjasse rajada galerii ja mida kohalik kogukond sellest k\u00f5igest arvas?<\/em><\/p><p>\u00a0<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Rohkem infot: <a href=\"https:\/\/voronjagalerii.ee\/suvehooaeg\" rel=\"noopener noreferrer\">https:\/\/voronjagalerii.ee\/suvehooaeg<\/a><\/p><p><\/p><p><strong>Kohtumiseni!<\/strong><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>REGISTREERIMINE ON KINNI<\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 14.11.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- hommikukohv-16.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

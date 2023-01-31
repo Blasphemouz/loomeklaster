@@ -1,0 +1,12 @@
+.k-login-form:before {
+	content: '';
+	height: 250px;
+	width: 100%;
+	display: block;
+	background: url('img/loomeklaster-logo.svg') center no-repeat;
+	background-size: contain;
+}
+/* .k-login-form::after {
+	color: #999;
+	content: 'Powered by Studio Augustine OÜ';
+} */

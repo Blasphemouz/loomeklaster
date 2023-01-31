@@ -1,0 +1,28 @@
+Title: Tegevused
+
+----
+
+Member: Ajakava
+
+----
+
+Text: [{"content":{"text":"<p>Klaster pakub ettev\u00f5tlusalast n\u00f5ustamist, koolitusi ja kaasamis\u00fcritusi, olles inkubaatoriks ja koost\u00f6\u00f6v\u00f5rgustikuks loomevaldkonnas tegevust alustavatele ettev\u00f5tjatele. Klastri liikmed koos valdkondlike partnerite ja katusorganisatsioonidega tegelevad ka maakonna loomeettev\u00f5tluse arengukava koostamisega.<\/p>"},"id":"8dd45a60-26e6-4707-9ffb-15fa65ca58fa","isHidden":false,"type":"text"},{"content":{"level":"h1","text":"<strong>Kontakt\u00fcrituste ja koolituste ajakava<\/strong>"},"id":"22a1e49c-da7e-4a82-b8be-34e37c2a5673","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Tulenevad<\/strong><\/p><p><\/p><p><em>T\u00e4iendamisel<\/em><\/p><p><\/p>"},"id":"0cb62cc9-b139-4162-b1a1-85b0169756d6","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Toimunud<\/strong><\/p>"},"id":"2bcec06d-b945-4288-b299-3698306466b1","isHidden":false,"type":"text"},{"content":{"text":"<p>08.12.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv10\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (10\/10)<\/a><\/strong><\/p><p>24.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv8\" rel=\"noopener noreferrer\">LIVE! IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (9\/10)<\/a><\/strong><\/p><p>24.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv9\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (8\/10)<\/a><\/strong><\/p><p>17.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv7\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (7\/10)<\/a><\/strong><\/p><p>10.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv6\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (6\/10)<\/a><\/strong><\/p><p>08.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/oppereis2022tartu\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI \u00d5PPEREIS TARTU 8. NOVEMBRIL 2022<\/a><\/strong><\/p><p>03.11.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv5\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (5\/10)<\/a><\/strong><\/p><p>27.10.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv4\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (4\/10)<\/a><\/strong><\/p><p>20.10.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv3\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (3\/10)<\/a><\/strong><\/p><p>13.10.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv2\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (2\/10)<\/a><\/strong><\/p><p>29.09.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/hommikukohv1\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI HOMMIKUKOHV LOOVETTEV\u00d5TJAGA (1\/10)<\/a><\/strong><\/p><p>13.06.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/oppereis2022\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI \u00d5PPEREIS TALLINNA 13.-14. JUUNIL 2022<\/a><\/strong><\/p><p>23.05.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/strateegia-kohtumine-23052022\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI STRATEEGIA KOHTUMINE<\/a><\/strong><\/p><p>21.04.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/koolitus-nr3\" rel=\"noopener noreferrer\">KOOLITUS \u21163: DISAINM\u00d5TLEMINE JA KLIENDIKESKNE M\u00d5TTEVIIS. UUED PUBLIKU- JA KLIENDIGRUPID.<\/a><\/strong><\/p><p>31.03.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/strateegia-seminar-nr3\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI STRATEEGIA SEMINAR \u21163<\/a><\/strong><\/p><p>25.03.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/ida-viru-loomeklastri-strateegia-seminari-nr-2-kokkuvote\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI STRATEEGIA SEMINARI \u21162. KOKKUV\u00d5TE.<\/a><\/strong><\/p><p>10.03.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/strateegia-seminar-nr2\" rel=\"noopener noreferrer\">STRATEEGIA SEMINAR \u21162 TEEMA: LOOMEKLASTRI \u00dcHISED EESM\u00c4RGID<\/a><\/strong><\/p><p>18.02.2022 | <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/koolitus-2-rahastusvoimalused-ja-projektikirjutamine\" rel=\"noopener noreferrer\">KOOLITUS \u21162: RAHASTUSV\u00d5IMALUSED JA PROJEKTIKIRJUTAMINE<\/a><\/strong><\/p><p>10.12.2021| <strong><a href=\"https:\/\/loomeklaster.ee\/uudised\/avakohtumine\" rel=\"noopener noreferrer\">IDA-VIRU LOOMEKLASTRI AVAKOHTUMINE NARVAS<\/a><\/strong><\/p><p><\/p>"},"id":"f1b0c1f4-806d-4dc0-adf1-4ee077f79d4b","isHidden":false,"type":"text"},{"content":{"text":""},"id":"dccafc7e-e361-4340-b9ed-7561a792fcb0","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- narva_51733511789_o-min.jpg
+- narva_51733511729_o-min.jpg
+
+----
+
+Meta-description: Klaster pakub ettevõtlusalast nõustamist, koolitusi ja kaasamisüritusi, olles inkubaatoriks ja koostöövõrgustikuks loomevaldkonnas tegevust alustavatele ettevõtjatele. Klastri liikmed koos valdkondlike partnerite ja katusorganisatsioonidega tegelevad ka maakonna loomeettevõtluse arengukava koostamisega.
+
+----
+
+Meta-tags: Ida-Viru, loomeklaster, ettevõtlusalane nõustamine, koolitused, inkubaator, koostöövõrgustik
+
+----
+
+Uuid: MFREBxaHVMUnruk9

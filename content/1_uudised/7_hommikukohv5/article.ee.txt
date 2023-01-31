@@ -1,0 +1,25 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (5/10)
+
+----
+
+Published: 2022-11-03
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR5
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-11.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Viies hommikukohv on 03.11. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>Tere tulemast, meiega koos avastama ilusa Eestimaa tegusaid inimesi!<\/strong><\/p><p>Hea meel on esitleda sel korral hakkajat ettev\u00f5tjat Mustveest - <strong>Eveli Tooming<\/strong>!<\/p><p>Kas te teadsite, et v\u00e4iksest Avinurme k\u00fclast toimub juba aastaid \u00fche pereettev\u00f5tte toodangu eksport Jaapanisse? Kuidas \u00fcks pere hoiab oma k\u00fcla pikaajalist kultuurip\u00e4randit, annab sellega t\u00f6\u00f6d teistele oma kogukonnas ja arendab seda kaasaegses v\u00f5tmes p\u00e4randit edasi. Miks nad on just Avinrumes oma ettev\u00f5tet otsustanud arendada? Kui pikalt l\u00e4heb aega, et saada laastukorvide punumises meistri tasemele? Kuidas nad valmistub Avinurme saabuvaks j\u00f5ulude hooajaks?  ning veel paljust muust r\u00e4\u00e4gimegi ettev\u00f5tte m\u00fc\u00fcgijuhi Eveli Toomingaga.<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vaata imelist loomingut siit: <strong><a href=\"https:\/\/puiduait.ee\/\" rel=\"noopener noreferrer\">https:\/\/puiduait.ee\/<\/a> ja registreeru kohtumisele Zoomis!<\/strong><\/p><p><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/ivek.ee\/events\/hommikukohv5\/#reg\" target=\"_blank\" title=\"Registreeru\" rel=\"noopener noreferrer\">REGISTREERU<\/a><\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 25.10.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

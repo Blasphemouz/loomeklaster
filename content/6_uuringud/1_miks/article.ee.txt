@@ -1,0 +1,27 @@
+Title: Miks Sinust pole saanud veel ettevõtja?
+
+----
+
+Published: 2022-12-21
+
+----
+
+Member: Miks Sinust pole saanud veel ettevõtja? (2022)
+
+----
+
+Text: [{"content":{"text":"<p>Aasta 2022 septembri l\u00f5pus oli avatud k\u00fcsitlus, kus paluti meie k\u00fcsimustele vastata neil Ida-Virumaa inimestel, <strong>kes pole kunagi ettev\u00f5tlusega tegelenud, ning selgitada mis p\u00f5hjustel j\u00e4etakse ettev\u00f5tlusega alustamata.<\/strong><\/p><p>Uuringu on tellinud Ida-Viru Ettev\u00f5tluskeskus ja Loomeklaster, ning viis l\u00e4bi Gurmeejooksud MT\u00dc.<\/p><p><\/p><p><strong><a href=\"https:\/\/ivek.ee\/?attachment_id=22049\" target=\"_blank\" title=\"Uuringu raport\" rel=\"noopener noreferrer\">Uuringu raport<\/a><\/strong><br><\/p><p><\/p><p><strong>Videotutvustus<\/strong><\/p>"},"id":"2e4f8893-7fa5-4ffc-85a0-8429513494e1","isHidden":false,"type":"text"},{"content":{"text":"<iframe width=\"800\" height=\"600\" src=\"https:\/\/www.youtube.com\/embed\/wBpSUzpGiMs\" title=\"Ettev\u00f5tlusega mittealustamise uuring\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"},"id":"7be47baf-74bf-4606-bbac-0a0634255c42","isHidden":false,"type":"customhtml"}]
+
+----
+
+Page-images:
+
+- svenzacek_oru_park_32.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

@@ -1,0 +1,28 @@
+Title: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid.
+
+----
+
+Published: 2022-04-21
+
+----
+
+Member: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid.
+
+----
+
+Text: [{"content":{"text":"<p>Kell: t\u00e4psustamisel<\/p><p>OBJEKT (aadress: Linda 2, Narva)<\/p><p><\/p><p><\/p><p><strong>Koolitajad: <\/strong>t\u00e4psustamisel<\/p><p>Koolitusel saab osaleda nii kohapeal (kuni 50 inimest) kui ka Zoom vahendusel.<\/p>"},"id":"a76feab6-953a-4893-8a34-563983d56aaf","isHidden":false,"type":"text"},{"content":{"text":"<p>Koolitusel osalemiseks palun eelregistreeru siin: <a href=\"https:\/\/bit.ly\/3itlC6I\" rel=\"noopener noreferrer\">https:\/\/bit.ly\/3itlC6I<\/a><\/p><p><\/p>"},"id":"01c296c9-d812-445c-a3ca-f1217ffce86a","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid
+
+----
+
+Meta-tags: idaviru, loomeklaster, koolitus, tasuta, ettevõtlus, loome, idaviruettevõtluskeskus

@@ -1,0 +1,27 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (7/10)
+
+----
+
+Published: 2022-11-17
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR7
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-13.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Seitsmes hommikukohv on 17.11. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p>TaevaniMaani on pereettev\u00f5te Raplamaal, millel on p\u00e4ris ambitsioonikas eesm\u00e4rk, olla omas valdkonnas parim tegija Eestis\u2026ei ole just palju ettev\u00f5tteid, kes soovivad olla roosidega tarbekeraamikas parimad\u2026aga need roosidega n\u00f5ud t\u00f5esti k\u00f5netavad oma elegantsuse ja erip\u00e4raga\u2026l\u00e4hme siis k\u00fclla ja saame tuttavaks <strong>Maria Mettasega<\/strong> ja tema tegemistega Raplamaal.<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Tutvusta ettev\u00f5tja t\u00f6\u00f6dega siit: <strong><a href=\"taevanimaani.ee\" rel=\"noopener noreferrer\">taevanimaani.ee<\/a><\/strong> <strong>ja registreeru kohtumisele Zoomis!<\/strong><\/p><p><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/loomeklaster.ee\/koolitusmaterjalid\/hommikukohv\" rel=\"noopener noreferrer\">SALVESTUS<\/a><\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 11.11.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- hommikukohv-16.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

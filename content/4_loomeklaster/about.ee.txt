@@ -1,0 +1,30 @@
+Title: Mis on Loomeklaster?
+
+----
+
+Member: Loomeklaster
+
+----
+
+Text: [{"content":{"text":"<p>Ida-Viru Loomeklaster on 2021. aasta s\u00fcgisel asutatud koost\u00f6\u00f6v\u00f5rgustik, mis koondab piirkonna loomevaldkonna ettev\u00f5tted, organisatsioonid ja tegijad eesm\u00e4rgiga edendada t\u00f6\u00f6stusj\u00e4rgses Ida-Viru piirkonnas loomeettev\u00f5tlust, et anda t\u00f5uge kultuuri- ja majanduselu hoogustamiseks.<\/p><p>Ida-Viru Loomeklaster hoogustab maakonna v\u00e4ikeettev\u00f5tlust, mitmekesistades t\u00f6\u00f6alaseid oskusi, pakkudes v\u00e4rskeid \u00e4riideid ning soodustades tulevikutoodete ja -teenuste ja seel\u00e4bi uute t\u00f6\u00f6kohtade teket. Klastri tegevused panustavad ka Ida-Viru \u00f5iglasesse \u00fcleminekusse ning Narva ja Ida-Viru Euroopa kultuuripealinn 2036 kandidatuuri. Tuues piirkonda uut talenti ja oskusteavet, mitmekesistab klastri tegevus elukeskkonda ning julgustab kogu Eestit, aga ka naaberriike piirkonda uues valguses n\u00e4gema.<\/p><p>Ida-Viru Loomeklaster koondab valdkonnas tegutsevad piirkondlikud loomeorganisatsioonid, kohalikud omavalitsused ja ettev\u00f5tted, koordineerib \u00fchiste eesm\u00e4rkide p\u00fcstitust, kollektiivset esindatust, huvide kaitset, koost\u00f6id \u00fcleriigiliste arenduskeskustega ning valdkondlike uuringute tellimist. Klaster pakub ettev\u00f5tlusalast n\u00f5ustamist, koolitusi ja kaasamis\u00fcritusi, olles inkubaatoriks ja koost\u00f6\u00f6v\u00f5rgustikuks loomevaldkonnas tegevust alustavatele ettev\u00f5tjatele. Klastri liikmed koos valdkondlike partnerite ja katusorganisatsioonidega tegelevad ka maakonna loomeettev\u00f5tluse arengukava koostamisega.<\/p><p>Ida-Viru Loomeklastri algatajaks on SA Ida-Viru Ettev\u00f5tluskeskus (IVEK) koost\u00f6\u00f6s ettev\u00f5ttega Shiftworks O\u00dc. Klastri tegevusi toetatakse Rahandusministeeriumi regionaalarengu toetusmeetme Ida-Viru maakonna ettev\u00f5tluse ning inimeste t\u00f6\u00f6alaste oskuste mitmekesistamise toetus raames. Klastri partner on Kultuuriministeerium.<\/p><p><strong>Eesm\u00e4rgid ja tegevused<\/strong> <\/p>"},"id":"c046fae5-0cf6-43ba-ba95-6a6c11292fff","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Piirkonna organisatsioonide ja ettev\u00f5tete koondamine valdkondadeu\u0308lesesse koost\u00f6\u00f6v\u00f5rgustikku<\/li><li>Piirkonna loomeettev\u00f5tjate partnerv\u00f5rgustiku koondamine ja \u00fchise andmebaasi loomine nii maakonnas kui ka \u00fcle Eesti tegutsevatest loomeettev\u00f5tjatest ja organisatsioonidest<\/li><li>V\u00f5rgustiku kohtumiste ja kaasamiskoosolekute korraldamine, eesm\u00e4rgiga jagada kogemusi ja parimaid praktikaid ning koguda infot maakonna loomeettev\u00f5tluse arengukava jaoks<\/li><li>Loomemajanduse alase teadlikkuse t\u00f5stmine nii loomeinimeste ja -ettev\u00f5tete hulgas kui ka teistes majandussektorites ning avalikkuses l\u00e4bi meediakajastuse, turunduse ja erialaste koolituste<\/li><li>Ida-Viru loomeettev\u00f5tjatele parema ligip\u00e4\u00e4su loomine uutele rahastusallikatele, t\u00f5stes liikmete teadlikkust rahastusv\u00f5imalustest nii avalikus kui ka erasektoris l\u00e4bi vastavate koolituste, n\u00f5ustamiste ja regulaarse teavituskirja<\/li><\/ul>"},"id":"e6e2738a-bd9c-4ec8-be67-d3495efc195d","isHidden":false,"type":"list"},{"content":{"text":"<p>Klastri tegevuste kaasabil Ida-Viru loomeettev\u00f5tluse arengukava koostamine, mis suunab maakonna arengustrateegias m\u00e4rgitud loomemajanduse tegevussuundade elluviimist<\/p><p><strong>Kontaktid:<\/strong><br>Piia Tamm, Ida-Viru Loomeklastri projekti juht<br><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><br><a href=\"mailto:info@loomeklaster.ee\">info@loomeklaster.ee<\/a><\/p>"},"id":"6be15ec8-3878-4a5d-a070-2cfb04ff0e12","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  ida-viru-loomeklastri-avakohtumine-101221_51739856115_o-min.jpg
+- >
+  ida-viru-loomeklastri-avakohtumine-101221_51739206478_o-min.jpg
+
+----
+
+Meta-description: Ida-Viru Loomeklaster on 2021. aasta sügisel asutatud koostöövõrgustik, mis koondab piirkonna loomevaldkonna ettevõtted, organisatsioonid ja tegijad eesmärgiga edendada tööstusjärgses Ida-Viru piirkonnas loomeettevõtlust, et anda tõuge kultuuri- ja majanduselu hoogustamiseks.
+
+----
+
+Meta-tags: Ida-Viru, loomeklaster, koostöövõrgustik, loomevaldkond, ettevõtted, loomeettevõtlus, kultuur, majandus
+
+----
+
+Uuid: lauc59H19smRvJDd

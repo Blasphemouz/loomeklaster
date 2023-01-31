@@ -1,0 +1,33 @@
+Title: Новости
+
+----
+
+Slug: novosti
+
+----
+
+Member: Новости
+
+----
+
+Page-images:
+
+- >
+  kreenholmi-manufaktuur_51732030792_o-min.jpg
+- 51732855266_3249b410fe_o-min.jpg
+
+----
+
+Meta-description: Ida-Viru Loomeklastri algatajaks on SA Ida-Viru Ettevõtluskeskus (IVEK) koostöös ettevõttega Shiftworks OÜ. Klastri tegevusi toetatakse Rahandusministeeriumi regionaalarengu toetusmeetme Ida-Viru maakonna ettevõtluse ning inimeste tööalaste oskuste mitmekesistamise toetus raames. Klastri partner on Kultuuriministeerium.
+
+----
+
+Meta-tags: 
+
+----
+
+Text: 
+
+----
+
+Published: 2021-12-08 00:00:00

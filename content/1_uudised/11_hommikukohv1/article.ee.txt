@@ -1,0 +1,27 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (1/10)
+
+----
+
+Published: 2022-09-29
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR1
+
+----
+
+Text: [{"content":{"location":"kirby","image":["online-koolitus-8.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster alustab uue formaadiga: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><\/p><p><strong>Esimene hommikukohv on 29.09. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>Tere tulemast, meiega koos avastama ilusa Eestimaa tegusaid inimesi!<\/strong><\/p><p>\u00a0<\/p><p>Kohvihommikute juttude sarjaga soovime suurendada loomeettev\u00f5tluse valdkonna teadlikkust Ida-Virumaal ning innustada ja julgustada loomeettev\u00f5tlusega rohkem tegelema meie maakonna inimesi.<\/p><p>Esimeseks k\u00fclaliseks on ehtekunstnik <strong>Lisa Kroeber<\/strong>!<\/p><p>Julgen arvata, et enamik Eesti naisi teavad Lisa Kroeberi v\u00e4rvilisi ja oman\u00e4oliseid k\u00f5rvar\u00f5ngaid ja kaelaehteid ning kannavad neid r\u00f5\u00f5muga. Kes on aga disainer, nende ehete taga? Millest ta ammutab inspiratsiooni? Kuidas ja miks valis ta just ehted v\u00f5i hoopis ehted valisid teda? Kuidas sattus Lisa Viljandimaale ja miks ta on otsustanud oma ettev\u00f5tet just Viljandimaal arendada? Millised on Lisa tegemised ja unistused oma br\u00e4ndiga seoses?<\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vaata Lisa imelist loomingut siit:<strong> <a href=\"https:\/\/lisakroeber.com\/\" rel=\"noopener noreferrer\">https:\/\/lisakroeber.com\/<\/a> ja registreeru kohtumisele Zoomis!<\/strong><\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":""},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p>Registreerumine on l\u00f5ppenud.<\/p><p><\/p><p><strong><a href=\"https:\/\/loomeklaster.ee\/koolitusmaterjalid\" rel=\"noopener noreferrer\">Vaata salvestust<\/a><\/strong><\/p>"},"id":"39a34928-244a-45a8-b8a5-ef97f1cf8d2e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 21.09.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- narva-linnus_51733103068_o-min.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

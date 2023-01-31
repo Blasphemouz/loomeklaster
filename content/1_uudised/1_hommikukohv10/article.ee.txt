@@ -1,0 +1,25 @@
+Title: LIVE! Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (10/10)
+
+----
+
+Published: 2022-12-08
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR10
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-15.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\"<\/strong><\/p><p><strong>Viimane hommikukohv on 08.12. kell 09.00.- 10.00 Zoomis!<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Meie viimane, K\u00dcMNES hommikukohv viib meid P\u00f5lvamaale, Loovusaita.<\/p><p>\u00a0<\/p><p>Indrek ja Liina Maripuu v\u00f5tsid k\u00e4tte ja kolisid 12.aastat tagasi Tallinnast \u00e4ra P\u00f5lvamaale ning hakkasid arendama \u00fchte 18. sajandist p\u00e4ris talu, kus n\u00fc\u00fcdseks saavad meeskonnad linnak\u00e4rast eemal tegeleda ajur\u00fcnnakutega ja m\u00f5ttemustrite murdmisega. Nad on aktiivselt panustanud ka piirkonna turundamisessse,\u00a0 v\u00e4he sellest - nad on ka 2021.a TOP10 Aasta Turismiedendaja tiitli saanud ettev\u00f5te.<em><br><br>Kuidas nad muutsid iseenda m\u00f5ttemustreid? Miks nad hakkkasid ettev\u00f5tjaks just P\u00f5lvamaal? Millised on nende hommikud ja nende \u00f5ppetunnid ning igap\u00e4evased r\u00f5\u00f5mud, mis neid P\u00f5lvamaal ikka edasi hoiavad?<\/em><\/p><p>\u00a0<\/p><p><\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Rohkem infot:  <a href=\"https:\/\/loovusait.ee\/kontakt\/indrek-maripuu\" rel=\"noopener noreferrer\">https:\/\/loovusait.ee\/<\/a><\/p><p><br><\/p><p><strong>Kohtumiseni!<\/strong><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/ivek.ee\/events\/hommikukohv10\/\" rel=\"noopener noreferrer\">REGISTREERIMINE<\/a><\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 01.12.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"},{"content":{"text":""},"id":"b772891d-9943-4e7f-a3ea-7db2bf8c1132","isHidden":false,"type":"text"}]
+
+----
+
+Page-images: - hommikukohv-16.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

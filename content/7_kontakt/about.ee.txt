@@ -1,0 +1,30 @@
+Title: Kontakt
+
+----
+
+Member: Kontakt
+
+----
+
+Text: [{"content":{"text":"<p><strong>Piia Tamm<\/strong><\/p><p>Ida-Viru Loomeklastri projekti juht<br><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><br><a href=\"mailto:info@loomeklaster.ee\">info@loomeklaster.ee<\/a><\/p>"},"id":"cc5e9475-266a-4e75-9113-ab025aef6bc2","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  tartu-likooli-narva-kolled_51732031367_o-min.jpg
+- >
+  narva-sadam-art-club-ro-ro_51732864306_o-min.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 
+
+----
+
+Uuid: T7d7Ok6NYFhzwYFV

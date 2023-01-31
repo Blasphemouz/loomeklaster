@@ -1,0 +1,25 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (4/10)
+
+----
+
+Published: 2022-10-27
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR4
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-17.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Neljas hommikukohv on 27.10. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>Tere tulemast, meiega koos avastama ilusa Eestimaa tegusaid inimesi!<\/strong><\/p><p>Hea meel on esitleda sel korral hakkajat ettev\u00f5tjat Hiiumaalt - <strong>Helen<\/strong> <strong>Teigarit<\/strong>!<\/p><p>Tema enda lugu ettev\u00f5tjana on j\u00e4rgmine: Head ideed tekivad millegip\u00e4rast tavaliselt siis, kui midagi n\u00e4ssu l\u00e4heb. Nii juhtus triibuvineeri loojal Helen Teigaril m\u00f6\u00f6blidisaini \u00f5pingute ajal, kui \u00fcheks konkursit\u00f6\u00f6ks vineerist painutatud detaili valmistades see ootamatult purunes ja tuli algse materjali puudusel kiiresti ja loovalt asendada. Vaheldumisi kaht eri tooni puiduspooni liimides saavutas ta \u00fcllatavalt p\u00f5neva tulemuse. Kui paar p\u00e4eva hiljem sattus talle kapis n\u00e4ppu rahvariideseelik, s\u00fcndis v\u00e4lgatusena idee luua v\u00e4rvikihiline seelikutriibuvineer. Idee on \u00fcks asi, teostus aga midagi muud. Katsetuste k\u00e4igus selgus, et \u00f5hukesi puidukihte polegi niisama lihtne l\u00e4biv\u00e4rvida, kuna puit on nagu filter, mis ei lase v\u00e4rviosakestel edasi liikuda. Selle probleemi lahendamiseks tegi Helen diplomit\u00f6\u00f6 \u201ePikitriibuseelikutest inspireeritud v\u00e4rvikihiline vineer\u201d raames p\u00f5hjaliku uurimuse, t\u00f6\u00f6tas v\u00e4lja l\u00e4biv\u00e4rvimisseadmed, materjalikontseptsiooni Triibuvineer ning esitles seda esmakordselt Eesti Rahva Muuseumi k\u00f5nepuldi kujunduslahenduses.<\/p><p>Triibuvineer O\u00dc loodi 2015. aasta kevadel ning sama aasta suvel rajati t\u00f6\u00f6koda Hiiumaale. Ettev\u00f5te v\u00e4\u00e4rtustab looduslikku keskkonda ja paneb suurt r\u00f5hku oma tootmisprotsessi \u00f6koloogilisele jalaj\u00e4ljele, kasutades oma toorainena looduss\u00e4\u00e4stvaid aineid ja \u2013materjale.<\/p><p>2015. aasta s\u00fcgisest osaleb Tallinna Ettev\u00f5tlusinkubaatori \u00e4riarendusprogrammis.<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vaata imelist loomingut siit: <strong><a href=\"https:\/\/www.triibuvineer.ee\/\" rel=\"noopener noreferrer\">https:\/\/www.triibuvineer.ee\/<\/a> ja registreeru kohtumisele Zoomis!<\/strong><\/p><p><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/loomeklaster.ee\/koolitusmaterjalid\/hommikukohv\" rel=\"noopener noreferrer\">SALVESTUS<\/a><\/strong><\/p><p><\/p><p><\/p>"},"id":"39a34928-244a-45a8-b8a5-ef97f1cf8d2e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 17.10.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

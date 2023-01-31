@@ -1,0 +1,22 @@
+title: Fail
+preset: files
+
+fields:
+  author:
+    label: Autor
+    type: text
+  alt:
+    label: Alternative Text
+    type: text
+  link:
+    label: Link
+    type: text    
+ 
+tabs:
+  details:
+    label: Details
+    preset: page
+    fields:
+      intro:
+        label: Intro
+        type: textarea    

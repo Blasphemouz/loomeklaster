@@ -1,0 +1,28 @@
+Title: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis.  Uued publiku- ja kliendigrupid.
+
+----
+
+Published: 2022-04-21
+
+----
+
+Member: Koolitus №3: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja kliendigrupid.
+
+----
+
+Text: [{"content":{"text":"<p><strong>Koolituse salvestus:<\/strong><\/p>"},"id":"a76feab6-953a-4893-8a34-563983d56aaf","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Hanna-Stella Haaristo<\/strong>\u00a0on disainiuurija disainiagentuuri Velvet strateegilise ja teenusedisaini tiimis.<\/p>"},"id":"49234a92-0ebc-4aa2-a460-48aac79915c5","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/Z2_5aA978-E","caption":""},"id":"05502484-d63a-40a8-9c72-47b73b798862","isHidden":false,"type":"video"},{"content":{"text":"<p>\/avaldatud 06.05.2022<\/p>"},"id":"e2605a2b-7ea4-4330-b106-277a5062b55c","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

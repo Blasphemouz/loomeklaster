@@ -1,0 +1,24 @@
+Title: Домашняя страница
+
+----
+
+Text: 
+
+----
+
+Home-photos:
+
+- ivlk_2-min.jpg
+- ivlk_3-min.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 
+
+----
+
+Logo: 

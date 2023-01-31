@@ -1,0 +1,27 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (2/10)
+
+----
+
+Published: 2022-10-13
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga II
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><\/p><p><strong>Teine hommikukohv on 13.10. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>Tere tulemast, meiega koos avastama ilusa Eestimaa tegusaid inimesi!<\/strong><\/p><p>\u00a0<\/p><p>Kohvihommikute juttude sarjaga soovime suurendada loomeettev\u00f5tluse valdkonna teadlikkust Ida-Virumaal ning innustada ja julgustada loomeettev\u00f5tlusega rohkem tegelema meie maakonna inimesi.<\/p><p>Hommikukohvi nr 2 k\u00fclaliseks on disainer <strong>Kati Vaas<\/strong> P\u00e4rnumaalt.<\/p><p><em>Ema ja t\u00fctar, disainer ja kunstnik, kaubam\u00e4rgi all Vaas&amp;Vaas toimetavad juba aastaid koos P\u00e4rnu linnas, \u00fcheskoos on nad loonud ka hubase disaini- ja kingipoe Kolme Karu Kaubamaja ning t\u00e4naseks tuntakse neid j\u00e4rjest paremini \u00fcle Eesti. Kuidas leida just see OMA valdkond ja fookus ning olla selles julge, sihikindel ja oman\u00e4oline. T\u00fctar Kati r\u00e4\u00e4gib meile oma (pere)ettev\u00f5tte arendamise loo. Kuidas on olla P\u00e4rnus loovettev\u00f5tja? Millest \u00fcldse alustada kui soov on panna kokku disainipood ja tegeva kunstniku ateljee? Millised on r\u00f5\u00f5mud ja millised on v\u00e4ljakutsed? Kuidas covid m\u00f5jutas teie v\u00e4ikest \u00e4ri? Millised on nende arenguplaanid?<\/em><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vaata Kati imelist loomingut siit:<strong> <a href=\"www.vaasvaas.ee\" rel=\"noopener noreferrer\">www.vaasvaas.ee<\/a> ja registreeru kohtumisele Zoomis!<\/strong><\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":""},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/ivek.ee\/events\/hommikukohv2\/#reg\" target=\"_blank\" rel=\"noopener noreferrer\">Registreerumine<\/a><\/strong><\/p><p><\/p><p><\/p>"},"id":"39a34928-244a-45a8-b8a5-ef97f1cf8d2e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 29.09.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- narva-linnus_51733103068_o-min.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

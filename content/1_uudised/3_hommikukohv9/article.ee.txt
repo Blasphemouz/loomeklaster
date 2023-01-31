@@ -1,0 +1,25 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (8/10)
+
+----
+
+Published: 2022-11-24
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR8 (ZOOM)
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-14.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Kaheksas hommikukohv on 24.11. kell 09.00.- 10.00 Narva-J\u00f5esuus!<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Meie kaheksandal hommikukohvil l\u00e4hme k\u00fclla naabritele Rakverre! Meie k\u00fclaliseks on \u00fcdini loov ja s\u00e4rav Rakvere Loovuskeskuse juht \u00a0Jule K\u00e4en-Torm.<\/p><p>Jule on kiirgav ja kaasav loovisik, kellel on kogemusi kuhjaga. Ta alustas teatrikunstnikuna seej\u00e4rel tegi ka Rakvere linnakunstniku t\u00f6\u00f6d ning juba ligi 10 aastat on ta Rakvere loovuskeskuse eestvedaja. Ta on ise oma tegevusega on kui loovuse keskpunkt, ta teeb logosid ja ruumide sisekujundusi ettev\u00f5tetele, maalilaagerid ja kunstikursuseid nii lastele kui t\u00e4iskasvanutele ning v\u00e4ga m\u00f5nusa disainiga linaseid riideid ja kotte\u2026kuidas ta arendab oma ettev\u00f5tet? Kuidas ta laeb iseennast ettev\u00f5taja ja inimesena? Millised on tema jaoks m\u00f5nusad j\u00f5ulup\u00fchad ja j\u00f5ulunipid koos perega toimetamiseks?<\/p><p>\u00a0<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Rohkem infot:  <strong><a href=\"https:\/\/loovuskoolitus.ee\/avaleht\/\" rel=\"noopener noreferrer\">https:\/\/loovuskoolitus.ee\/avaleht\/<\/a><\/strong><\/p><p><\/p><p><strong>Kohtumiseni!<\/strong><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/ivek.ee\/events\/hommikukohv8\/#reg\" rel=\"noopener noreferrer\">REGISTREERIMINE<\/a><\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 14.11.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

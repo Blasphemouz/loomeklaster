@@ -1,0 +1,56 @@
+Title: KVAPTAL
+
+----
+
+Member: KVAPTAL
+
+----
+
+Text: [{"content":{"text":""},"id":"d73c34b6-0e85-4a90-9088-672708b7b365","isHidden":false,"type":"text"}]
+
+----
+
+Address:
+
+MTÜ NARVA KÜBERARENG (80576607)
+Kraavi tn 7-3, Narva linn 
+20307 Ida-Virumaa, Eesti
+
+----
+
+Homepage: https://www.instagram.com/kvaptal/?igshid=YmMyMTA2M2Y%3D
+
+----
+
+Facebook: https://facebook.com/events/s/kvaptal-lipovka/526200972396706/
+
+----
+
+Instagram: https://www.instagram.com/kvaptal/?igshid=YmMyMTA2M2Y%3D
+
+----
+
+Contactmail: ivan.dmitrijev@yahoo.com
+
+----
+
+Page-image:
+
+- >
+  76337041-e4a6-4c01-bd9b-f338ece15046-ivan-dmitrijev.jpeg
+
+----
+
+Page-images:
+
+- >
+  76337041-e4a6-4c01-bd9b-f338ece15046-ivan-dmitrijev.jpeg
+- kvaptal_halloween_2022.jpg
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

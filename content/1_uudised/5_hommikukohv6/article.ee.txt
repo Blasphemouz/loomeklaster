@@ -1,0 +1,27 @@
+Title: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga (6/10)
+
+----
+
+Published: 2022-11-10
+
+----
+
+Member: Ida-Viru Loomeklastri hommikukohv loovettevõtjaga NR6
+
+----
+
+Text: [{"content":{"location":"kirby","image":["hommikukohv-12.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4c0b2358-98d4-4ea0-9ae6-0c0152d5162d","isHidden":false,"type":"image"},{"content":{"text":"<p><\/p><p><strong>Ida-Viru Loomeklaster kutsub: \"Hommikukohv loovettev\u00f5tjaga\".<\/strong><\/p><p><strong>Kuues hommikukohv on 10.11. kell 9.00.- 10.00. (ZOOM'is).<\/strong><\/p>"},"id":"283e7411-c9ed-4477-81d2-477a3b4263f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Kas te olete juba kursis, et auto rehvidest saab teha jalan\u00f5usid?\u00a0 Ja mitte mingeid igavaid musti kummikuid, vaid V\u00c4GA \u00e4gedaid disainitud jalan\u00f5usid! Neid valmistatakse Eestis, t\u00e4psemalt Tartus, ja m\u00fc\u00fcakse \u00fcle maailma. Kui Sa taha olla nii trenditeadlik kui ka s\u00e4\u00e4stvat tarbimist toetav inimene siis peaksid Sa meie kohvihommiku l\u00f5puks juba tellima endale uued KIRA jalan\u00f5ud v\u00f5i dressid \u00e4ra...aga v\u00f5tame aja ja r\u00e4\u00e4gime br\u00e4ndi loojatega, kuidas selline idee j\u00f5udis \u00fcldse ideest tegelikkuseni? Kuidas on neil l\u00e4inud oma toote arendus? Millised olid kitsaskohad ja esimesed suured v\u00f5idud?\u00a0 Mul on hea meel teile esitleda br\u00e4ndi KIRA ja tema tegusaid juhte \u2013 Sirli\u00a0 ja Birgit. Tandem on ka v\u00e4rske ka Eesti Disainiauhinnad 2022.a toote disaini V\u00d5ITJAD!!<\/p><p><br>Sirli Ratasepp kes on kodumaise jalatsibr\u00e4ndi KIRA kaasasutaja ja disainer. <br>KIRA jalatsibr\u00e4nd s\u00fcndis s\u00f5na otseses m\u00f5ttes vastusena t\u00e4nap\u00e4evasele \u00fcletarbimisele. L\u00fchikese elueaga tooted on koormaks nii kandjale kui keskkonnale \u2013 nende tootmine kulutab asjatult ressurssi, nukker kvaliteet kurvastab kandjat ning pr\u00fcgi tekib aina juurde. Tegelikult vajame me olenemata kliimav\u00f6\u00f6ndist mugavaid ja praktilisi jalan\u00f5usid, mis n\u00e4evad kenad v\u00e4lja ning paitavad s\u00fcdametunnistust, sest need on valminud j\u00e4tkusuutlikul moel.<\/p><p><br>KIRA on lihtne ning ajatu, tuletades meile ikka ja j\u00e4lle meelde, kuidas v\u00e4hem on alati rohkem \u2013 nii meie enda kui ka keskkonna jaoks.<\/p>"},"id":"cacad392-5343-4408-9af8-dfc8d131cddd","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p>Ootame teie aktiivset tagasisidet hommikukohvi kohta ja ettepanekuid k\u00fclaliste kohta: <strong><a href=\"mailto:piia.tamm@ivek.ee\">piia.tamm@ivek.ee<\/a><\/strong><\/p><p>Hommikukohvi jutud salvestame ning neid saab hiljem j\u00e4relekuulata meie kodulehelt: <strong><a href=\"http:\/\/loomeklaster.ee\/\" target=\"_blank\" rel=\"noopener noreferrer\">loomeklaster.ee<\/a><\/strong><\/p><p><\/p><p>Vali endale jalan\u00f5ud siit: <strong><a href=\"kirasustainable.com\" target=\"_blank\" rel=\"noopener noreferrer\">kirasustainable.com<\/a><\/strong> <strong>ja registreeru kohtumisele Zoomis!<\/strong><\/p><p><\/p><p><\/p>"},"id":"9734f52c-9034-4667-a866-171a8c8c89be","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/loomeklaster.ee\/koolitusmaterjalid\/hommikukohv\" rel=\"noopener noreferrer\">SALVESTUS<\/a><\/strong><\/p><p><\/p>"},"id":"060140af-fc39-4421-90c4-82b46d173f38","isHidden":false,"type":"text"},{"content":{"text":"<p>\/avaldatud 25.10.2022<\/p>"},"id":"b0002ed6-4b2b-456d-bfbb-f0a8d5772b02","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- hommikukohv-16.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

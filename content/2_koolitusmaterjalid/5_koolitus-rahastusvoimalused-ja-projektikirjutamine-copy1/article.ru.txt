@@ -1,0 +1,28 @@
+Title: Запуск Творческого кластера и тренинг №1
+
+----
+
+Published: 2021-12-10
+
+----
+
+Member: Запуск Творческого кластера и тренинг №1
+
+----
+
+Text: [{"content":{"text":"<p><\/p><p><strong>\u0417\u0430\u043f\u0438\u0441\u0438:<\/strong><\/p>"},"id":"014c35ce-9cad-4a98-b61c-918ea05584f4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435. Piia Tamm, Loomeklastri ja Viru FilmiFondi juht, SA Ida-Viru Ettev\u00f5tluskeskus<\/strong><\/p>"},"id":"4b122624-d2f7-44c5-b3c5-f282720a1b86","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/JkpjunktgVA?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"f8578c57-5b1f-4cb4-ae95-b8a2420caaa9","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>\u0417\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043f\u043b\u0430\u043d\u0430 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0422\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u041a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 \u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430 \u043d\u0430 2022 \u0433\u043e\u0434. <\/strong><\/p><p><strong>Piia Tamm, Loomeklastri ja Viru FilmiFondi juht, SA Ida-Viru Ettev\u00f5tluskeskus<\/strong><\/p>"},"id":"a81269bd-7007-4d02-a302-9a320890d2c0","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/IGtRWzlzm70?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"ff1b54a9-1963-4fe8-80ff-3df291e7e312","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>\u041e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b Tiit Terik <\/strong><\/p>"},"id":"b0fd130e-a054-4f86-990d-500c78b128ee","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/xhfNi9vn7x0?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"6b1dd461-1df3-4170-b35b-8ef0dd6ca3bd","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>\u041e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430 \u0433\u043e\u0441. \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f Jaak Aab<\/strong><\/p>"},"id":"19f54004-c69b-46dd-b435-868257d6905b","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/6EaiCIc3rpo?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"c1f90e1c-f6ad-4a65-8a7e-52978641d4ad","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>\u0421\u043e\u0432\u0435\u0442\u043d\u0438\u043a \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u043c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430  \u043f\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 Anu-Maarja Pallok<\/strong><\/p>"},"id":"05979b30-0ca1-44c0-b8b3-e2182c95a959","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/yhWqH1ZIv4o?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"3b0ab2c1-62b3-40b5-b0ed-b07d6cd3f70e","isHidden":false,"type":"video"},{"content":{"text":"<p><strong>\u041a\u0440\u0435\u0430\u0442\u0438\u0432\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f, Juko-Mart K\u00f5lar<\/strong><\/p>"},"id":"e0bc2128-19ad-4e0f-8824-ab04e89a6fbe","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/vPSR4Dkn5_c?list=PL9HXbokFKK_InWcje3d0OfT6ybU77TIUn","caption":""},"id":"c0cc130b-7ed0-40cf-9afe-fb5ed2b11d7f","isHidden":false,"type":"video"},{"content":{"text":"<p>\/ \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e 10.12.2021<\/p>"},"id":"96d4a516-723c-489c-91ae-086f2cad4420","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 

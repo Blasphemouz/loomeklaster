@@ -1,0 +1,32 @@
+Title: Тренинг №2  Возможности финансирования и написание проектов
+
+----
+
+Slug: trening-2-vozmozhnosti-finansirovaniya-i-napisanie-proektov
+
+----
+
+Published: 2022-02-18
+
+----
+
+Member: Тренинг №2  Возможности финансирования и написание проектов
+
+----
+
+Text: [{"content":{"text":"<p><strong>\u0422\u0440\u0435\u043d\u0438\u043d\u0433 \u21162 \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432<\/strong><\/p>"},"id":"a76feab6-953a-4893-8a34-563983d56aaf","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p><p><strong>\u0417\u0430\u043f\u0438\u0441\u0438:<\/strong><\/p><p>Sissejuhatus. Piia Tamm, Loomeklastri ja Viru FilmiFondi juht, SA Ida-Viru Ettev\u00f5tluskeskus<\/p>"},"id":"014c35ce-9cad-4a98-b61c-918ea05584f4","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/jQX60SOCn20","caption":""},"id":"f8578c57-5b1f-4cb4-ae95-b8a2420caaa9","isHidden":false,"type":"video"},{"content":{"text":"<p><\/p><p><\/p><p><strong>Oma ettev\u00f5tte, organisatsiooni, projekti presenteerimine<\/strong>: loomemajanduse ekspert Ragnar Siil, Creativity Lab (OSA I, II)<br><strong><a href=\"https:\/\/drive.google.com\/file\/d\/1u0DNw_BTF0oXGgh5WmpnElgA6OGX9Nui\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/strong><\/p>"},"id":"a81269bd-7007-4d02-a302-9a320890d2c0","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/ii4vKLNPF_g","caption":""},"id":"ff1b54a9-1963-4fe8-80ff-3df291e7e312","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/youtu.be\/xJDk_qPdVvU","caption":""},"id":"f7c41ba3-44fe-43ab-bfe4-6d36937b6726","isHidden":false,"type":"video"},{"content":{"text":"<p><\/p><p><\/p><p><strong>T\u00fc\u00fcpilised vead taotlustes: <\/strong>Iris J\u00e4rv ja\u00a0Ave H\u00e4rsing\u00a0Integratsiooni Sihtasutus<br><strong><a href=\"https:\/\/docs.google.com\/presentation\/d\/1M4RmUo6BYeJ67Kow39sYeXo36QrXJ802\/edit?usp=sharing&amp;ouid=107674142020841383069&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/strong><\/p>"},"id":"b0fd130e-a054-4f86-990d-500c78b128ee","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/ebjOLi9Z8Ho","caption":""},"id":"6b1dd461-1df3-4170-b35b-8ef0dd6ca3bd","isHidden":false,"type":"video"},{"content":{"text":"<p><\/p><p><strong>Sponsorite kaasamine<\/strong>: Helen Sildna, loomeettev\u00f5tja, festivalide Station Narva ja Tallinn Music Week juht<br><strong><a href=\"https:\/\/drive.google.com\/file\/d\/1Ggi1BTo4hIGY1LxgYa1tb5T0KgYFMxhS\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/strong><\/p>"},"id":"19f54004-c69b-46dd-b435-868257d6905b","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/p06qMu0a7zc","caption":""},"id":"c1f90e1c-f6ad-4a65-8a7e-52978641d4ad","isHidden":false,"type":"video"},{"content":{"text":"<p><\/p><p><strong>Investeeringute kaasamine: <\/strong>Jana Budkovskaja, Narva loomelabori OBJEKT juht ja Prototroni kiirendi eestvedaja<br><strong><a href=\"https:\/\/drive.google.com\/file\/d\/11L69zTMFuPNO4l2Z5ip3Fkmv8hylTHvj\/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">esitlus<\/a><\/strong><\/p>"},"id":"05979b30-0ca1-44c0-b8b3-e2182c95a959","isHidden":false,"type":"text"},{"content":{"url":"https:\/\/youtu.be\/dOmJGbfZs7M","caption":""},"id":"3b0ab2c1-62b3-40b5-b0ed-b07d6cd3f70e","isHidden":false,"type":"video"},{"content":{"text":"<p>\/\u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e 18.02.2022<\/p>"},"id":"96d4a516-723c-489c-91ae-086f2cad4420","isHidden":false,"type":"text"}]
+
+----
+
+Page-images:
+
+- >
+  idaviruloomeklaster_foto_karel_kravik_visit_estonia.png
+
+----
+
+Meta-description: 
+
+----
+
+Meta-tags: 
