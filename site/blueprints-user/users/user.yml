@@ -1,0 +1,42 @@
+title: User
+
+home: /panel/account
+
+permissions:
+  access:
+    panel: true
+    site: true
+    languages: false
+    system: false
+    users: false
+  files:
+    create: true
+    changeName: true
+    delete: true
+    read: true
+    replace: true
+    update: true
+  pages:
+    changeSlug: true
+    changeStatus: true
+    changeTemplate: true
+    changeTitle: true
+    create: true
+    delete: true
+    duplicate: false
+    preview: true
+    read: true
+    sort: true
+    update: true
+  site:
+    changeTitle: false
+    update: true
+  user:
+    changeEmail: true
+    changeLanguage: true
+    changeName: true
+    changePassword: true
+    changeRole: false
+    delete: true
+    update: true
+  users: false
