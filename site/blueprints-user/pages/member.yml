@@ -1,4 +1,11 @@
 title: Liige
+status:
+  draft:
+    label: Mustand
+    text: Postitus on nähtav ainult Teile ning administraatorile.
+  unlisted:
+    label: Kinnitamine
+    text: Olete valmis postituse kinnitamiseks ning avalikustamiseks.
 columns:
   left:
     width: 2/3
