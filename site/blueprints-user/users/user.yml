@@ -1,6 +1,6 @@
 title: User
 
-home: /panel/account
+home: /panel
 
 permissions:
   access:
