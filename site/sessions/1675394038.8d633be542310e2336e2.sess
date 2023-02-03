@@ -1,2 +1,2 @@
-29f26b67110e7144c417f4b9a9ea91087b071939ccfc72bc374126c7215ac91e
-a:7:{s:9:"startTime";i:1675386838;s:10:"expiryTime";i:1675394038;s:8:"duration";i:7200;s:7:"timeout";i:1800;s:12:"lastActivity";i:1675387345;s:9:"renewable";b:1;s:4:"data";a:2:{s:10:"kirby.csrf";s:64:"fdf9476f9c076105f0b9793cfc6631dcb5f7569ac56701d28a7819f3789efe35";s:12:"kirby.userId";s:8:"OQ1BWZQp";}}
+e302be20aba8b9c1bbbc13fc5936730977a092de1d1368f52c50aee01c11451a
+a:3:{s:9:"startTime";i:1675386838;s:10:"expiryTime";i:1675388262;s:10:"newSession";s:31:"1675394038.f800d4e8206e96cf2579";}

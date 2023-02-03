@@ -47,6 +47,9 @@ columns:
       content2:
         type: fields
         fields:
+          autor:
+            type: users
+            disabled: true
           page_image:
             label: Peamine foto
             type: files
