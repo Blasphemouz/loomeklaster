@@ -1,3 +1,4 @@
 /:
-  unlock:
-    - a1GwI1CY
+  lock:
+    user: a1GwI1CY
+    time: 1649248712
