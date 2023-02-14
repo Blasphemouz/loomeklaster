@@ -2,10 +2,10 @@ title: Liige
 status:
   draft:
     label: Mustand
-    text: Postitus on nähtav ainult Teile ning administraatorile.
+    text: Postitus on nähtav ainult Teile ning administraatorile. Kui te teete muudatusi staatus muutub automaatselt mustandiks.
   unlisted:
     label: Kinnitamine
-    text: Olete valmis postituse kinnitamiseks ning avalikustamiseks.
+    text: Olete valmis postituse kinnitamiseks ning avalikustamiseks. Teie postitust kontrollitakse.
 columns:
   left:
     width: 2/3
