@@ -32,7 +32,7 @@ permissions:
     changeTitle: false
     update: true
   user:
-    changeEmail: true
+    changeEmail: false
     changeLanguage: true
     changeName: true
     changePassword: true
