@@ -8,9 +8,6 @@
 			<h1 style="text-transform: uppercase; margin-bottom: 30px; line-height: 1.2;"><?= kirbytextinline($page->title()) ?></h1>
 			<div class="page-description">
 				<?= $page->text()->toBlocks() ?>
-
-				<p class="filtering">Filtreeri märksõnade alusel:</p>
-
 				<style>
 					.page-members-tags {
 						display: flex;
@@ -38,23 +35,17 @@
 						color: #4427F0!important;
 					}
 				</style>
-
-				<div class="page-members-tags">
-					<?php foreach($tags as $tag): ?>
-						<a href="<?= url('liikmed', ['params' => ['tag' => urlencode($tag)]]) ?>">				
-							<?php echo t(html($tag)) ?>
-						</a>
-					<?php endforeach ?>		
-					<?php if($tag = param('tag')): ?> 
-						<a class="tags-remove" href="<?php echo url('liikmed') ?>"><?php echo t('removefilter') ?></a>
-					<?php endif; ?> 					  
-				</div>								
+                <p class="filtering">Filtreeri märksõnade alusel:</p>
+                <?php snippet('tags') ?>
+                <p></p>
+                <p class="filtering">Filtreeri asukoha alusel:</p>
+                <?php snippet('locations') ?>
 			</div>
 			
 			<div class="page-members-container">						
-				<?php foreach($members as $member): ?>							
+				<?php foreach($items as $member): ?>
 					<div class="page-member-container">
-						<a href="<?= $member->url() ?>">										
+						<a href="<?= $member->url() ?>">
 							<div>
 							<?php if($image = $member->page_image()->toFile()): ?>
 								<img class="page-member-image" src="<?= $image->crop(900, 600)->url() ?>" alt="<?= $image->alt() ?>">
