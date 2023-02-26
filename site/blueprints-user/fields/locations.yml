@@ -1,0 +1,34 @@
+label: Asukohad
+lower: true
+accept: options
+type: tags
+translate: true
+help: |
+  Nende märksõnade järgi saab koduleheküljel liikmeid kategoriseerida: Ürituste korraldus, Koolitamine/haridus, Käsitöö, Muusika, Sisekujundus, Mood, Kujutav kunst, Disain, Tehnika/ruumide rent, Töövahendite rent, Kultuuripärand, Audiovisuaalmeedia
+min: 1
+max: 5
+options:
+  location1:
+    ee: Alutaguse vald
+    ru: Волость Алутагузе
+  location2:
+    ee: Lüganuse vald
+    ru: Волость Люганузе
+  location3:
+    ee: Narva-Jõesuu linn
+    ru: Город Нарва-Йыэсуу
+  location4:
+    ee: Toila vald
+    ru: Волость Тойла
+  location5:
+    ee: Jõhvi vald
+    ru: Волость Йыхви
+  location6:
+    ee: Narva linn
+    ru: Город Нарва
+  location7:
+    ee: Kohtla-Järve linn
+    ru: Город Кохтла-Ярве
+  location8:
+    ee: Sillamäe linn
+    ru: Город Силламяэ

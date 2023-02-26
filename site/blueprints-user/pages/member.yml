@@ -66,53 +66,8 @@ columns:
             label: Lehekülje foto(d)
             type: files
             help: Järjestada saab drag-n-drop meetodil.   
-          tags:
-            label: Märksõnad
-            lower: true
-            accept: options
-            type: tags
-            translate: true
-            help: |
-              Nende märksõnade järgi saab koduleheküljel liikmeid kategoriseerida: Ürituste korraldus, Koolitamine/haridus, Käsitöö, Muusika, Sisekujundus, Mood, Kujutav kunst, Disain, Tehnika/ruumide rent, Töövahendite rent, Kultuuripärand, Audiovisuaalmeedia           
-            min: 1
-            max: 5
-            options:
-              filter1:
-                ee: Sündmuste korraldus
-                ru: Проведение мероприятий
-              filter2:
-                ee: Koolitamine/haridus
-                ru: Обучение/Образование
-              filter3:
-                ee: Käsitöö
-                ru: Рукоделие
-              filter4:
-                ee: Muusika
-                ru: Музыка 
-              filter5:
-                ee: Sisekujundus
-                ru: Внутреннее оформление   
-              filter6:
-                ee: Mood
-                ru: Мода   
-              filter7:
-                ee: Kujutav kunst
-                ru: Изобразительное искусство (ИЗО) 
-              filter8:
-                ee: Disain
-                ru: Дизайн   
-              filter9:
-                ee: Tehnika/ruumide rent
-                ru: Аренда техники/помещений   
-              filter10:
-                ee: Töövahendite rent
-                ru: Аренда рабочих инструментов   
-              filter11:
-                ee: Kultuuripärand
-                ru: Культурное наследие   
-              filter12:
-                ee: Video ja foto
-                ru: Аудиовизуальные медиа                   
+          tag: fields/tags
+          location: fields/locations
           line:
             type: line  
           meta_description:

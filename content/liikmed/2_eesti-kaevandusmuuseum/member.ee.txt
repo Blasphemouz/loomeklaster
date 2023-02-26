@@ -34,29 +34,25 @@ Contactmail: info@kaevandusmuuseum.ee
 
 ----
 
-Page-image:
-
-- >
-  eesti-kaevandusmuuseum_51733746360_o-min.jpg
+Page-image: - file://gx8jNPHsPSbbn1Aj
 
 ----
 
 Page-images:
 
-- >
-  eesti-kaevandusmuuseum_51733746360_o-min.jpg
-- >
-  eesti-kaevandusmuuseum-mgede-hl-2020_51733151723_o.jpg
-- >
-  eesti-kaevandusmuuseum-mgede-hl-2020_51733803615_o.jpg
-- >
-  eesti-kaevandusmuuseum-mgede-hl-2020_51732913701_o.jpg
-- >
-  eesti-kaevandusmuuseum-mgede-hl-2020_51733803555_o.jpg
+- file://gx8jNPHsPSbbn1Aj
+- file://hKM45pV2wjijXNKA
+- file://h1gGOFN0mGBZqDY6
+- file://fbbGIDyPRThFo8Qy
+- file://hZfa8h0iNdAZ2i9k
 
 ----
 
-Tags: filter11, filter8, filter7, filter6, filter5
+Tag: filter11, filter8, filter7, filter6, filter5
+
+----
+
+Location: location4
 
 ----
 

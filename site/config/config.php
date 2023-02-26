@@ -20,5 +20,5 @@ return [
         }
     ],
     'languages' => true,
-	'debug'  => false,
+	'debug'  => true,
 ];
