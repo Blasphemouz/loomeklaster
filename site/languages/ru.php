@@ -9,6 +9,9 @@ return [
     ],
     'name' => 'Russian',
     'translations' => [
+        'lang' => 'ru',
+        'login' => 'Вход',
+        'panel' => 'Панель',
 		'menu' => 'Mеню',
 		'filter1' => 'Проведение мероприятий',
 		'filter2' => 'Обучение/Образование',

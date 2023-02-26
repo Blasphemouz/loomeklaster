@@ -14,9 +14,7 @@ Text: [{"content":{"location":"kirby","image":["online-koolitus-8.png"],"src":""
 
 ----
 
-Page-images:
-
-- narva-linnus_51733103068_o-min.jpg
+Page-images: - narva-linnus_51733103068_o-min.jpg
 
 ----
 
@@ -25,3 +23,7 @@ Meta-description:
 ----
 
 Meta-tags: 
+
+----
+
+Uuid: Hz5DwcQaVhsR3Mfb

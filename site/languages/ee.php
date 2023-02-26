@@ -9,6 +9,9 @@ return [
     ],
     'name' => 'Eesti keel',
     'translations' => [
+        'lang' => 'ee',
+        'login' => 'Logi sisse',
+        'panel' => 'Paneel',
 		'menu' => 'Menüü',
 		'filter1' => 'Sündmuste korraldus',
 		'filter2' => 'Koolitamine/haridus',

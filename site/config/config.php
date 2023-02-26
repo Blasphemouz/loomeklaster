@@ -5,6 +5,31 @@ return [
         'install' => true,
         'css' => 'assets/css/custom-panel.css'
     ],
+    'email' => [
+        // see https://getkirby.com/docs/guide/emails#transport-configuration
+        'transport' => [
+            'type' => 'smtp',
+            'host' => '192.168.1.96',
+            'port' => 25,
+            'security' => false
+        ]
+    ],
+    // see https://getkirby.com/docs/reference/system/options/auth#login-methods
+    'auth' => [
+        'debug' => true,
+        'methods' => ['password', 'code'],
+        'challenge' => [
+            'email' => [
+                'from' => 'mail@example.com',
+                'transport' => [
+                    'type' => 'smtp',
+                    'host' => '192.168.1.96',
+                    'port' => 25,
+                    'security' => false
+                ]
+            ]
+        ]
+    ],
     'hooks' => [
         'page.*:after' => function ($event, $newPage) { //Otsib muudatusi lehtedele
             if(in_array($event->action(), ['update', 'changeTitle', 'changeSlug',]) !== true) { //Kood ei reageeri sündmustele, mis ei sobi

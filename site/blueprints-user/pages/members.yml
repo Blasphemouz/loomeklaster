@@ -1,6 +1,7 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Members
-
+title:
+  ee: Liikmed
+  ru: Члены
 # Each page can have an icon that is shown in page listings when no preview image is available.
 icon: 📖
 
@@ -14,12 +15,16 @@ columns:
     sections:
       drafts:
         extends: sections/members
-        label: Drafts
+        label:
+          ee: Mustandid
+          ru: Черновики
         status: draft
 
       unlisted:
         extends: sections/members
-        label: In Review
+        label:
+          ee: Kontrollitakse
+          ru: Проверяется
         status: unlisted
 
   - width: 2/3
@@ -27,7 +32,9 @@ columns:
     sections:
       listed:
         extends: sections/members
-        label: Published
+        label:
+          ee: Muudetud
+          ru: Опубликовано
         status: listed
         size: small
         layout: cards

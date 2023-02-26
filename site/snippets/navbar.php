@@ -28,7 +28,13 @@
 						<a href="<?= $site->instagram()->html() ?>" target="_blank">
 							<img class="social-media-link" draggable="false" src="<?php echo url('assets/img/icons/instagram.svg') ?>" alt="" border="0"/>	
 						</a>
-					</li>						
+					</li>
+
+                    <li class="nav-item">
+                        <a href="/panel/login?language=<?php echo t('lang', 'ee') ?>">
+                            <?php echo t('panel', 'Paneel')?>
+                        </a>
+                    </li>
 				</ul>				
 				
 				<ul class="mob-nav-menu">
