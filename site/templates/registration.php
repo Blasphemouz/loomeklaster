@@ -6,10 +6,15 @@
 
 <body>
 <div class="page-container">
+
     <div class="page-text-column">
+
         <div id="main" class="page-text-container">
+
             <?php snippet('breadcrumb') ?>
+
             <h1><?= kirbytextinline($page->member()) ?></h1>
+
             <?php
             // if the form has errors, show a list of messages
             if (count($errors) > 0) : ?>
@@ -20,22 +25,29 @@
                 </ul>
             <?php endif ?>
             <form method="post" action="<?= $page->url() ?>">
+
                 <input type="hidden" name="csrf" value="<?= csrf() ?>">
+
                 <input type="hidden" name="language" value="<?php echo t('urllang', 'ee')?>"
+
                 <ul>
+
                     <div>
                         <h2><label for="name"><?= $page->name() ?></label></h2>
-                        <input required type="text" id="name" name="name" value="<?= esc($data['name'] ?? '', 'attr') ?>">
+                        <input required type="text" id="name" name="name" title="<?= $page->username_title() ?>" oninvalid="setCustomValidity('<?= $page->username_error()?>')" value="<?= esc($data['name'] ?? '', 'attr') ?>">
                     </div>
+
                     <div style="padding-top: 10px;">
                         <h2><label for="email"><?= $page->email() ?></label></h2>
-                        <input required type="email" id="email" name="email" value="<?= esc($data['email'] ?? '', 'attr') ?>">
+                        <input required type="email" id="email" name="email" title="<?= $page->email_title() ?>" oninvalid="setCustomValidity('<?= $page->email_error() ?>')" value="<?= esc($data['email'] ?? '', 'attr') ?> ">
                     </div>
-                    <div style="padding-top: 8px;">
-                        <input required type="checkbox" id="checkbox" name="checkbox">
-                        <label for="checkbox"> <?= $page->permission()?></label>
+
+                    <div style="padding-top: 10px;">
+                        <input required type="checkbox" id="checkbox" name="checkbox" title="<?= $page->permission_title() ?>" oninvalid="setCustomValidity('<?= $page->permission_error() ?>')">
+                        <label for="checkbox"> <?= $page->permission() ?></label>
                     </div>
-                    <div style="padding-top: 8px;">
+
+                    <div style="padding-top: 12px;">
                         <input type="submit" name="register" value="<?= $page->register() ?>" style="
                         border: none;
 						text-transform: uppercase;
@@ -52,8 +64,11 @@
 						}
 					">
                     </div>
+
             </form>
+
             <?php snippet('footer') ?>
+
         </div>
     </div>
     <div class="page-image-column">

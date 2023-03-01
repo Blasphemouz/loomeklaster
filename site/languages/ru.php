@@ -11,6 +11,7 @@ return [
     'translations' => [
         'lang' => 'ru',
         'login' => 'Вход',
+        'join' => 'Вступить',
         'panel' => 'Панель',
 		'menu' => 'Mеню',
 		'filter1' => 'Проведение мероприятий',

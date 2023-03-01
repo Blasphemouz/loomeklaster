@@ -10,7 +10,8 @@ return [
     'name' => 'Eesti keel',
     'translations' => [
         'lang' => 'ee',
-        'login' => 'Logi sisse',
+        'login' => 'Sisene',
+        'join' => 'Liitu',
         'panel' => 'Paneel',
 		'menu' => 'Menüü',
 		'filter1' => 'Sündmuste korraldus',

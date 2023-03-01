@@ -15,7 +15,15 @@ Page-images:
 
 ----
 
-Name: Nimi
+Name: Kasutajanimi
+
+----
+
+username_title: Palun täitke see väli
+
+----
+
+username_error: Palun sisestage sobiv Kasutajanimi
 
 ----
 
@@ -23,7 +31,23 @@ Email: E-post
 
 ----
 
-Permission: Nõustun minu poolt sisestatud piltide kasutusega.
+email_title: Palun täitke see väli
+
+----
+
+email_error: Palun sisestage sobiv E-posti aadress
+
+----
+
+Permission: Olen lugenud Tingimusi ja luban oma isikuandmeid kasutada
+
+----
+
+permission_title: Palun nõustuge meie tingimustega, kui soovite jätkata
+
+----
+
+permission_error: Palun nõustuge meie veebilehe tingimustega
 
 ----
 

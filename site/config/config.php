@@ -17,7 +17,7 @@ return [
     // see https://getkirby.com/docs/reference/system/options/auth#login-methods
     'auth' => [
         'debug' => true,
-        'methods' => ['password', 'code'],
+        'methods' => ['code', 'password'],
         'challenge' => [
             'email' => [
                 'from' => 'mail@example.com',
