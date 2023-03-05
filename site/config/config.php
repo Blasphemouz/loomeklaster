@@ -21,11 +21,12 @@ return [
         'challenge' => [
             'email' => [
                 'from' => 'mail@example.com',
+                'subject' => "Sisselogimiskood",
                 'transport' => [
                     'type' => 'smtp',
                     'host' => '192.168.1.96',
                     'port' => 25,
-                    'security' => false
+                    'security' => false,
                 ]
             ]
         ]
