@@ -16,6 +16,14 @@ Page-image:
 
 ----
 
+keywordFilter: Фильтр по ключевым словам
+
+----
+
+locationFilter: Фильтр по местоположению
+
+----
+
 Meta-description: 
 
 ----

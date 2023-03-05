@@ -35,10 +35,10 @@
 						color: #4427F0!important;
 					}
 				</style>
-                <p class="filtering">Filtreeri märksõnade alusel:</p>
+                <p class="filtering"><?= $page->keywordFilter()?>:</p>
                 <?php snippet('tags') ?>
                 <p></p>
-                <p class="filtering">Filtreeri asukoha alusel:</p>
+                <p class="filtering"><?= $page->locationFilter()?>:</p>
                 <?php snippet('locations') ?>
 			</div>
 			

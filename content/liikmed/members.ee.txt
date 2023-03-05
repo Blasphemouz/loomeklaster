@@ -10,6 +10,14 @@ Page-image: - ivlk_3.jpg
 
 ----
 
+keywordFilter: Filtreeri märksõnade alusel
+
+----
+
+locationFilter: Filtreeri asukoha alusel
+
+----
+
 Meta-description: Ida-Viru Loomeklaster koondab valdkonnas tegutsevad piirkondlikud loomeorganisatsioonid, kohalikud omavalitsused ja ettevõtted, koordineerib ühiste eesmärkide püstitust, kollektiivset esindatust, huvide kaitset, koostöid üleriigiliste arenduskeskustega ning valdkondlike uuringute tellimist.
 
 ----
