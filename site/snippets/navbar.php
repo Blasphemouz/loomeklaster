@@ -20,22 +20,36 @@
 					  </a>
 					</li>
 					<?php endforeach ?>
-                    <?php if(!$kirby->user()) { ?>
                     <li class="nav-item">
-                        <a href="/registreerumine">
-                            <?=t('join', 'Liitu') ?>
-                        </a>
+                        <?php if(!$kirby->user()) { ?>
+                        <?php if ( t('urllang', 'ee') == 'ru') {?>
+                            <a href="/ru/registreerumine">
+                                <?= t('join', 'Liitu'); ?>
+                            </a>
+                        <?php } else { ?>
+                            <a href="/registreerumine">
+                                <?= t('join', 'Liitu'); ?>
+                            </a>
+                        <?php } ?>
+                        <?php } else { ?>
+                            <a href="/panel"> <?= t('panel', 'Paneel'); ?> </a>
+                        <?php } ?>
                     </li>
-                    <?php }; ?>
+
                     <li class="nav-item">
-                        <a href="/panel/login?language=<?php echo t('lang', 'ee') ?>">
-                            <?php if (!$kirby->user()) {
-                                echo t('login', 'Sisene');
-                            } else {
-                                echo t('panel', 'Paneel');
-                            }
-                            ?>
-                        </a>
+                        <?php if (!$kirby->user()) { ?>
+                            <?php if ( t('urllang', 'ee') == 'ru') {?>
+                                <a href="/ru/login">
+                                    <?= t('login', 'Sisene'); ?>
+                                </a>
+                                <?php } else { ?>
+                                <a href="/login">
+                                    <?= t('login', 'Sisene'); ?>
+                                </a>
+                            <?php } ?>
+                        <?php } else { ?>
+                        <a href="<?= url('logout') ?>"> <?= t('logout', 'Välju'); ?> </a>
+                        <?php }; ?>
                     </li>
 					<li class="nav-item">
 						<a href="<?= $site->facebook()->html() ?>" target="_blank">

@@ -8,7 +8,7 @@ $(document).ready(function () {
 				var text = $(this).text();
 				text = text.replace("Sulge", "Menüü");
 				text = text.replace("Close", "Menu");
-				text = text.replace("Закрывать", "Mеню");				
+				text = text.replace("Закрыть", "Mеню");
 				$(this).text(text);				
 				
 			} else {
@@ -18,7 +18,7 @@ $(document).ready(function () {
 				var text = $(this).text();
 				text = text.replace("Menüü", "Sulge");
 				text = text.replace("Menu", "Close");
-				text = text.replace("Mеню", "Закрывать");				
+				text = text.replace("Mеню", "Закрыть");
 				$(this).text(text);					
 			}
 		});

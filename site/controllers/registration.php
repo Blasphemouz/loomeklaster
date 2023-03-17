@@ -19,6 +19,7 @@ return function ($kirby) {
             $data = [
                 'email' => get('email'),
                 'name' => get('name'),
+                'language' => get('language')
             ];
             // validation rules
             $rules = [
@@ -27,8 +28,8 @@ return function ($kirby) {
             ];
             // error messages
             $messages = [
-                'email' => 'Please enter a valid email address',
-                'name' => 'Your name must have at least 3 characters',
+                'email' => 'Palun sisestage sobiv E-Posti aadress',
+                'name' => 'Teie kasutajanimes peab olema vähemalt 3 tähte',
             ];
             // check if data is valid
             if ($invalid = invalid($data, $rules, $messages)) {
@@ -43,14 +44,14 @@ return function ($kirby) {
                     $user = $kirby->users()->create([
                         'email' => $data['email'],
                         'role' => 'user',
-                        'language' => 'en',
+                        'language' => $data['language'],
                         'name' => $data['name'],
                     ]);
                     if (isset($user) === true) {
                         // create the authentication challenge
                         try {
                             $status = $kirby->auth()->createChallenge($user->email(), false, 'login');
-                            go('/panel/login');
+                            go('/login');
                         } catch (PermissionException $e) {
                             $errors[] = $e->getMessage();
                         }
@@ -60,7 +61,7 @@ return function ($kirby) {
                 }
             }
         } else {
-            $errors[] = 'Invalid CSRF token.';
+            $errors[] = 'Ebasobiv CSRF token.';
         }
     }
 

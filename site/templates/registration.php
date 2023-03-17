@@ -34,16 +34,21 @@
 
                     <div>
                         <h2><label for="name"><?= $page->name() ?></label></h2>
-                        <input required type="text" id="name" name="name" title="<?= $page->username_title() ?>" oninvalid="setCustomValidity('<?= $page->username_error()?>')" value="<?= esc($data['name'] ?? '', 'attr') ?>">
+                        <input required type="text" id="name" name="name" title="<?= $page->username_title() ?>"
+                               oninvalid="this.setCustomValidity('<?= $page->username_error()?>')" onchange="this.setCustomValidity('')"
+                               value="<?= esc($data['name'] ?? '', 'attr') ?>">
                     </div>
 
                     <div style="padding-top: 10px;">
                         <h2><label for="email"><?= $page->email() ?></label></h2>
-                        <input required type="email" id="email" name="email" title="<?= $page->email_title() ?>" oninvalid="setCustomValidity('<?= $page->email_error() ?>')" value="<?= esc($data['email'] ?? '', 'attr') ?> ">
+                        <input required type="email" id="email" name="email" title="<?= $page->email_title() ?>"
+                               oninvalid="this.setCustomValidity('<?= $page->email_error() ?>')" onchange="this.setCustomValidity('')"
+                               value="<?= esc($data['email'] ?? '', 'attr') ?> ">
                     </div>
 
                     <div style="padding-top: 10px;">
-                        <input required type="checkbox" id="checkbox" name="checkbox" title="<?= $page->permission_title() ?>" oninvalid="setCustomValidity('<?= $page->permission_error() ?>')">
+                        <input required type="checkbox" id="checkbox" name="checkbox" title="<?= $page->permission_title() ?>"
+                               oninvalid="this.setCustomValidity('<?= $page->permission_error() ?>')" onchange="this.setCustomValidity('')">
                         <label for="checkbox"> <?= $page->permission() ?></label>
                     </div>
 

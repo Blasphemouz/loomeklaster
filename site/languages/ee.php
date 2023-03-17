@@ -9,7 +9,7 @@ return [
     ],
     'name' => 'Eesti keel',
     'translations' => [
-        'lang' => 'ee',
+        'urllang' => 'en',
         'login' => 'Sisene',
         'join' => 'Liitu',
         'panel' => 'Paneel',
@@ -26,6 +26,7 @@ return [
 		'filter10' => 'Töövahendite rent',
 		'filter11' => 'Kultuuripärand',
 		'filter12' => 'Video ja foto',
+        'filter13' => 'Muu',
         'location1' => 'Alutaguse vald',
         'location2' => 'Lüganuse vald',
         'location3' => 'Narva-Jõesuu linn',

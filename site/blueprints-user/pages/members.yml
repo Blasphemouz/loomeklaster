@@ -19,6 +19,9 @@ columns:
           ee: Mustandid
           ru: Черновики
         status: draft
+        help:
+          ee: Siin näete oma postituste mustandeid. Nende avalikustamiseks muutke postituse staatus mustandist kinnitamiseks.
+          ru: Здесь вы можете увидеть черновики своих постов. Чтобы сделать запрос на опубликование, измените статус сообщения с "Черновик" на "Подтверждение".
 
       unlisted:
         extends: sections/members
@@ -26,18 +29,29 @@ columns:
           ee: Kontrollitakse
           ru: Проверяется
         status: unlisted
-
+        help:
+          ee: Siin näete oma postitusi, millele te taotlesite kinnitust.
+          ru: Здесь вы можете увидеть свои посты, которые вы запросили подтвердить.
   - width: 2/3
     # In the second column, we reuse the same section, this time for listed pages and with a different headline
     sections:
       listed:
         extends: sections/members
         label:
-          ee: Muudetud
+          ee: Kinnitatud
           ru: Опубликовано
         status: listed
         size: small
         layout: cards
+        help:
+          ee: Siin näete oma postitusi, mis olid kinnitatud Loomeklastri administraatori poolt.
+          ru: Здесь вы можете увидеть свои посты, которые были опубликованы.
+      info:
+        label: Info
+        type: info
+        text:
+          ee: Küsimuste korral saate võtta meiega kontakti E-posti aadressil examplemail.com
+          ru: Если у вас возникли вопросы, вы можете связаться с нами по электронной почте по адресу examplemail.com
 options:
   delete:
     user: false

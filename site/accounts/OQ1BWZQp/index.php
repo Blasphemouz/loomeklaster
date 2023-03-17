@@ -2,7 +2,7 @@
 
 return [
     'email' => 'test@mail.com',
-    'language' => 'en',
+    'language' => 'ru',
     'name' => 'Test user',
     'role' => 'user'
 ];

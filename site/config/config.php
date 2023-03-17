@@ -1,5 +1,5 @@
 <?php
-
+c::set('thumbs.driver', 'im');
 return [
     'panel' => [
         'install' => true,
@@ -44,6 +44,19 @@ return [
                 return $newPage;
             }
         }
+    ],
+    'routes' => [
+        [
+            'pattern' => 'logout',
+            'action'  => function() {
+                if ($user = kirby()->user()) {
+                    $user->logout();
+                }
+
+                go('');
+
+            }
+        ]
     ],
     'languages' => true,
 	'debug'  => true,

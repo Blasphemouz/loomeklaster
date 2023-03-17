@@ -1,0 +1,52 @@
+name:
+  ee: Galerii
+  ru: Галерея
+icon: dashboard
+preview: gallery
+fields:
+  images:
+    label:
+      ee: Pildid
+      ru: Изображения
+    type: files
+    query: model.images
+    multiple: true
+    layout: cards
+    size: tiny
+    empty:
+      ee: Pildid puuduvad
+      ru: Изображений нет
+    uploads:
+      template: blocks/image
+    image:
+      ratio: 1/1
+  caption:
+    label:
+      ee: Pildiallkiri
+      ru: Подпись
+    type: writer
+    icon: text
+    inline: true
+  ratio:
+    label:
+      ee: Kuvasuhe
+      ru: Соотношение
+    type: select
+    placeholder: Auto
+    width: 1/2
+    options:
+      1/1: "1:1"
+      16/9: "16:9"
+      10/8: "10:8"
+      21/9: "21:9"
+      7/5: "7:5"
+      4/3: "4:3"
+      5/3: "5:3"
+      3/2: "3:2"
+      3/1: "3:1"
+  crop:
+    label:
+      ee: Kärpimine
+      ru: Обрезка
+    type: toggle
+    width: 1/2

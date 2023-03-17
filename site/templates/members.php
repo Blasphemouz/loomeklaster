@@ -11,7 +11,7 @@
 				<style>
 					.page-members-tags {
 						display: flex;
-						gap: 20px;
+						gap: 16px;
 						max-width: 1280px;
 						flex-wrap: wrap;
 					}
@@ -20,11 +20,12 @@
 						text-transform: uppercase;
 						color: white;
 						font-weight: bold;
-						letter-spacing: 0.8px;
+                        font-size: 14px;
+						letter-spacing: 0.6px;
 						text-decoration: none;
 						order: 1;
 						cursor: pointer;
-						padding: 8px;
+						padding: 6px;
 						border-radius: 5px;
 						background-color: #4427F0;	
 						font-family: 'Century Gothic WEB', sans-serif;

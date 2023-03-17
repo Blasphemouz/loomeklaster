@@ -1,0 +1,13 @@
+name:
+  ee: Tekst
+  ru: Текст
+icon: text
+wysiwyg: true
+preview: text
+fields:
+  text:
+    type: writer
+    nodes: false
+    placeholder:
+      ee: Tekst ...
+      ru: Текст ...

@@ -1,12 +1,52 @@
-title: User
+title:
+  ee: Kasutaja
+  ru: Пользователь
 
-home: /panel/account
+home: /panel
+
+columns:
+  left:
+    width: 1/2
+    fields:
+      eesnimi:
+        label:
+          ee: Eesnimi
+          ru: Имя
+        type: text
+      perekonnanimi:
+        label:
+          ee: Perekonnanimi
+          ru: Фамилия
+        type: text
+      telephone:
+        label:
+          ee: Telefoninumber
+          ru: Номер телефона
+        type: tel
+  right:
+    width: 1/2
+    fields:
+      consent:
+        label:
+          ee: "Soovin:"
+          ru: "Желаю:"
+        type: checkboxes
+        options:
+          infokiri:
+            ee: liituda Ida-Viru Loomeklastri infokirjaga
+            ru: присоединиться к рассылке новостей Творческого Кластера
+          tegevused:
+            ee: edaspidi osaleda/olla kursis Ida-Viru Loomeklastri tegevustega
+            ru: участвовать в деятельности Творческого Кластера в будущем
+          koolitused:
+            ee: edaspidi osaleda Ida-Viru Loomeklastri koolitusel
+            ru: принять участие в будущих тренингах Творческого Кластера
 
 permissions:
   access:
     panel: true
     site: true
-    languages: true
+    languages: false
     system: false
     users: false
   files:
@@ -30,9 +70,9 @@ permissions:
     update: true
   site:
     changeTitle: false
-    update: false
+    update: true
   user:
-    changeEmail: true
+    changeEmail: false
     changeLanguage: true
     changeName: true
     changePassword: true
