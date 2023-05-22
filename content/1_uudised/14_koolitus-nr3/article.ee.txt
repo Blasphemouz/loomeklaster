@@ -26,3 +26,7 @@ Meta-description: Disainmõtlemine ja kliendikeskne mõtteviis. Uued publiku- ja
 ----
 
 Meta-tags: loomeklaster, koolitus3
+
+----
+
+Uuid: VnIjUd4IM0Y0sR7N

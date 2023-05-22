@@ -1,0 +1,12 @@
+name:
+  ee: Nimekiri
+  ru: Список
+icon: list-bullet
+wysiwyg: true
+preview: list
+fields:
+  text:
+    label:
+      ee: Nimekiri
+      ru: Список
+    type: list

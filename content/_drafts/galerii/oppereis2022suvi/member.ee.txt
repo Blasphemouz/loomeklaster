@@ -33,3 +33,7 @@ Meta-description:
 ----
 
 Meta-tags: Eesti Kaevandusmuuseum, Kaevandus, Kohtla-Nõmme, Toila, Ida-Virumaa
+
+----
+
+Uuid: Ty793ygx16CLWBA2

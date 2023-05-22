@@ -7,7 +7,9 @@ label: Members
 parent: kirby.page("liikmed")
 info: "{{ page.published }}"
 template: member
-empty: No notes yet
+empty:
+  ee: Postitused puuduvad
+  ru: Посты отсутствуют
 sortBy: date desc
 page_image:
   cover: true

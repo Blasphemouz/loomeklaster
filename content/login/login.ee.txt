@@ -1,0 +1,50 @@
+Title: Sisselogimine
+
+----
+
+Member: Sisselogimine
+
+----
+
+Page-images:
+
+- >
+  kreenholmi-manufaktuur_51733530364_o-min.jpg
+- >
+  narva-linnus_51733103068_o-min.jpg
+
+----
+
+Email: E-post
+
+----
+
+Email-title: Palun täitke see väli
+
+----
+
+Email-error: Palun sisestage sobiv E-posti aadress
+
+----
+
+Logincode: Sisselogimiskood
+
+----
+
+Codedescription: Kui teie e-posti aadress on registreeritud, saadeti taotletud kood e-posti teel.
+
+----
+
+Code-title: Palun täitke see väli
+
+----
+
+Code-error: Palun sisestage vastav kood
+
+----
+
+Login: LOGI SISSE
+
+----
+
+Uuid: IguAdUzcXiUwbYs3

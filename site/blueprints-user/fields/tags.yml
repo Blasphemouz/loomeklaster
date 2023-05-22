@@ -1,10 +1,13 @@
-label: Märksõnad
+label:
+  ee: Märksõnad
+  ru: Ключевые слова
 lower: true
 accept: options
-type: tags
+type: multiselect
 translate: true
-help: |
-  Nende märksõnade järgi saab koduleheküljel liikmeid kategoriseerida: Ürituste korraldus, Koolitamine/haridus, Käsitöö, Muusika, Sisekujundus, Mood, Kujutav kunst, Disain, Tehnika/ruumide rent, Töövahendite rent, Kultuuripärand, Audiovisuaalmeedia
+help:
+  ee: Nende märksõnade järgi saab koduleheküljel liikmeid kategoriseerida.
+  ru: Эти ключевые слова можно использовать для категоризации членов на сайте
 min: 1
 max: 5
 options:
@@ -44,3 +47,6 @@ options:
   filter12:
     ee: Video ja foto
     ru: Аудиовизуальные медиа
+  filter13:
+    ee: Muu
+    ru: Прочее

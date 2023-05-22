@@ -9,6 +9,10 @@ return [
     ],
     'name' => 'Eesti keel',
     'translations' => [
+        'urllang' => 'en',
+        'login' => 'Sisene',
+        'join' => 'Liitu',
+        'panel' => 'Paneel',
 		'menu' => 'Menüü',
 		'filter1' => 'Sündmuste korraldus',
 		'filter2' => 'Koolitamine/haridus',
@@ -22,6 +26,7 @@ return [
 		'filter10' => 'Töövahendite rent',
 		'filter11' => 'Kultuuripärand',
 		'filter12' => 'Video ja foto',
+        'filter13' => 'Muu',
         'location1' => 'Alutaguse vald',
         'location2' => 'Lüganuse vald',
         'location3' => 'Narva-Jõesuu linn',

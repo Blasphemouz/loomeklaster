@@ -52,9 +52,16 @@
 				
 				<?php if ($page->contactmail()->isNotEmpty()): ?>
 				<a href="mailto:<?= $page->contactmail()->html() ?>" target="_blank" title="<?= $page->contactmail()->html() ?>">
-					<img class="social-media-link" draggable="false" src="<?php echo url('assets/img/icons/mail.svg') ?>" alt="" border="0"/>	
-				</a>	
-				<?php endif ?>	
+					<img class="social-media-link" draggable="false" src="<?php echo url('assets/img/icons/mail.svg') ?>" alt="" border="0"/>
+				</a>
+				<?php endif ?>
+                <?php if ($page->telephone()->isNotEmpty()): ?>
+                    <h4 style="margin: auto; height: 100%;">
+                        <?=
+                        $page->telephone();
+                        ?>
+                    </h4>
+                <?php endif ?>
 			</div>	
 		</div>			
 	</div>

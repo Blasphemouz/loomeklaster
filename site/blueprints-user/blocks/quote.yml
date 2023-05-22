@@ -1,0 +1,27 @@
+name:
+  ee: Tsitaat
+  ru: Цитата
+icon: quote
+wysiwyg: true
+preview: quote
+fields:
+  text:
+    label:
+      ee: Tekst
+      ru: Текст
+    placeholder:
+      ee: Tsitaat ...
+      ru: Цитата...
+    type: writer
+    inline: true
+    icon: quote
+  citation:
+    label:
+      ee: Viide
+      ru: Цитирование
+    placeholder:
+      ee: Autor ...
+      ru: Автор ...
+    type: writer
+    inline: true
+    icon: user

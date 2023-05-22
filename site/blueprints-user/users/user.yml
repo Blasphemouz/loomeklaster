@@ -1,6 +1,67 @@
-title: User
+title:
+  ee: Kasutaja
+  ru: Пользователь
 
 home: /panel
+
+columns:
+  left:
+    width: 1/2
+    fields:
+      kontaktinfo:
+        label: "Kontaktinfo:"
+        type: headline
+        numbered: false
+
+      eesnimi:
+        width: 1/2
+        label:
+          ee: Eesnimi
+          ru: Имя
+        type: text
+      perekonnanimi:
+        width: 1/2
+        label:
+          ee: Perekonnanimi
+          ru: Фамилия
+        type: text
+      telephone:
+        width: 2/3
+        placeholder: "+XXX XXXX XXXX"
+        label:
+          ee: Telefoninumber
+          ru: Номер телефона
+        type: tel
+      age:
+        width: 1/3
+        min: 0
+        max: 120
+        label:
+          ee: Vanus
+          ru: Возраст
+        type: number
+  right:
+    width: 1/2
+    fields:
+      eelistused:
+        label: "Eelistused:"
+        type: headline
+        numbered: false
+      consent:
+        label:
+          ee: "Soovin:"
+          ru: "Желаю:"
+        type: checkboxes
+        options:
+          infokiri:
+            ee: liituda Ida-Viru Loomeklastri infokirjaga
+            ru: присоединиться к рассылке новостей Творческого Кластера
+          tegevused:
+            ee: edaspidi osaleda/olla kursis Ida-Viru Loomeklastri tegevustega
+            ru: участвовать в деятельности Творческого Кластера в будущем
+          koolitused:
+            ee: edaspidi osaleda Ida-Viru Loomeklastri koolitusel
+            ru: принять участие в будущих тренингах Творческого Кластера
 
 permissions:
   access:

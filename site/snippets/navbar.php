@@ -1,3 +1,5 @@
+<?php $user = $site->user() ?>
+
 <header>
 	<nav class="navigation">
 		<div class="nav-container">
@@ -6,8 +8,9 @@
 					<?php foreach($site->children()->listed() as $subpage): ?>
 					<li id="<?= $subpage->template() ?><?php foreach($kirby->languages() as $language): ?><?php if($language->code() == $kirby->language()->code()): ?><?php $fallback = $language->name(); echo i18n::translate('class', $fallback, $language->code());?><?php endif ?><?php endforeach ?>" class="nav-item <?php e($subpage->isActive(), 'active') ?>"><a href="<?= $subpage->url() ?>"><?= html($subpage->title()->upper()) ?></a></li>
 					<?php endforeach ?>	
-				</ul>	
-				
+				</ul>
+
+
 				<ul class="nav-lang">	
 					<?php foreach($kirby->languages() as $language): ?>
 					<?php if ($kirby->language() == $language) continue; ?>
@@ -17,7 +20,37 @@
 					  </a>
 					</li>
 					<?php endforeach ?>
-					
+                    <li class="nav-item">
+                        <?php if(!$kirby->user()) { ?>
+                        <?php if ( t('urllang', 'ee') == 'ru') {?>
+                            <a href="/ru/registreerumine">
+                                <?= t('join', 'Liitu'); ?>
+                            </a>
+                        <?php } else { ?>
+                            <a href="/registreerumine">
+                                <?= t('join', 'Liitu'); ?>
+                            </a>
+                        <?php } ?>
+                        <?php } else { ?>
+                            <a href="/panel"> <?= t('panel', 'Paneel'); ?> </a>
+                        <?php } ?>
+                    </li>
+
+                    <li class="nav-item">
+                        <?php if (!$kirby->user()) { ?>
+                            <?php if ( t('urllang', 'ee') == 'ru') {?>
+                                <a href="/ru/login">
+                                    <?= t('login', 'Sisene'); ?>
+                                </a>
+                                <?php } else { ?>
+                                <a href="/login">
+                                    <?= t('login', 'Sisene'); ?>
+                                </a>
+                            <?php } ?>
+                        <?php } else { ?>
+                        <a href="<?= url('logout') ?>"> <?= t('logout', 'Välju'); ?> </a>
+                        <?php }; ?>
+                    </li>
 					<li class="nav-item">
 						<a href="<?= $site->facebook()->html() ?>" target="_blank">
 							<img class="social-media-link" draggable="false" src="<?php echo url('assets/img/icons/facebook.svg') ?>" alt="" border="0"/>	
@@ -28,7 +61,8 @@
 						<a href="<?= $site->instagram()->html() ?>" target="_blank">
 							<img class="social-media-link" draggable="false" src="<?php echo url('assets/img/icons/instagram.svg') ?>" alt="" border="0"/>	
 						</a>
-					</li>						
+					</li>
+
 				</ul>				
 				
 				<ul class="mob-nav-menu">

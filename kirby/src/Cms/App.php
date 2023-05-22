@@ -482,28 +482,23 @@ class App
 
 	/**
 	 * Try to find a controller by name
-	 *
-	 * @param string $name
-	 * @param string $contentType
-	 * @return \Kirby\Toolkit\Controller|null
 	 */
-	protected function controllerLookup(string $name, string $contentType = 'html')
+	protected function controllerLookup(string $name, string $contentType = 'html'): Controller|null
 	{
 		if ($contentType !== null && $contentType !== 'html') {
 			$name .= '.' . $contentType;
 		}
 
-		// controller on disk
-		if ($controller = Controller::load($this->root('controllers') . '/' . $name . '.php')) {
+		// controller from site root
+		$controller   = Controller::load($this->root('controllers') . '/' . $name . '.php');
+		// controller from extension
+		$controller ??= $this->extension('controllers', $name);
+
+		if ($controller instanceof Controller) {
 			return $controller;
 		}
 
-		// registry controller
-		if ($controller = $this->extension('controllers', $name)) {
-			if ($controller instanceof Controller) {
-				return $controller;
-			}
-
+		if ($controller !== null) {
 			return new Controller($controller);
 		}
 
@@ -1612,13 +1607,11 @@ class App
 	 * Uses the snippet component to create
 	 * and return a template snippet
 	 *
-	 * @param mixed $name
 	 * @param array|object $data Variables or an object that becomes `$item`
 	 * @param bool $return On `false`, directly echo the snippet
-	 * @return string|null
 	 * @psalm-return ($return is true ? string : null)
 	 */
-	public function snippet($name, $data = [], bool $return = true, bool $slots = false): Snippet|string|null
+	public function snippet(string|array|null $name, $data = [], bool $return = true, bool $slots = false): Snippet|string|null
 	{
 		if (is_object($data) === true) {
 			$data = ['item' => $data];

@@ -1,0 +1,58 @@
+Title: Registreerumine
+
+----
+
+Member: Registreerumine
+
+----
+
+Page-images:
+
+- >
+  kreenholmi-manufaktuur_51733530364_o-min.jpg
+- >
+  narva-linnus_51733103068_o-min.jpg
+
+----
+
+Name: Kasutajanimi
+
+----
+
+username_title: Palun täitke see väli
+
+----
+
+username_error: Palun sisestage sobiv Kasutajanimi
+
+----
+
+Email: E-post
+
+----
+
+email_title: Palun täitke see väli
+
+----
+
+email_error: Palun sisestage sobiv E-posti aadress
+
+----
+
+Permission: Olen lugenud Tingimusi ja luban oma isikuandmeid kasutada
+
+----
+
+permission_title: Palun nõustuge meie tingimustega, kui soovite jätkata
+
+----
+
+permission_error: Palun nõustuge meie veebilehe tingimustega
+
+----
+
+Register: REGISTREERU
+
+----
+
+Uuid: uO1aeDEUx9FOcLEF
